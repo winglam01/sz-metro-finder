@@ -1,0 +1,8214 @@
+{
+  "generatedAt": "2026-11-24T07:39:31.989Z",
+  "source": "https://www.szmc.net/styles/index/js/metroStationsList.js",
+  "lines": [
+    {
+      "id": "1",
+      "name": "1号线",
+      "from": "罗湖",
+      "to": "机场东",
+      "stations": [
+        {
+          "code": "0101",
+          "name": "罗湖",
+          "qp": "luohu",
+          "jp": "lh",
+          "index": 0
+        },
+        {
+          "code": "0102",
+          "name": "国贸",
+          "qp": "guomao",
+          "jp": "gm",
+          "index": 1
+        },
+        {
+          "code": "0103",
+          "name": "老街",
+          "qp": "laojie",
+          "jp": "lj",
+          "index": 2
+        },
+        {
+          "code": "0104",
+          "name": "大剧院",
+          "qp": "dajuyuan",
+          "jp": "djy",
+          "index": 3
+        },
+        {
+          "code": "0105",
+          "name": "科学馆",
+          "qp": "kexueguan",
+          "jp": "kxg",
+          "index": 4
+        },
+        {
+          "code": "0106",
+          "name": "华强路",
+          "qp": "huaqianglu",
+          "jp": "hql",
+          "index": 5
+        },
+        {
+          "code": "0107",
+          "name": "岗厦",
+          "qp": "gangxia",
+          "jp": "gx",
+          "index": 6
+        },
+        {
+          "code": "0108",
+          "name": "会展中心",
+          "qp": "huizhanzhongxin",
+          "jp": "hzzx",
+          "index": 7
+        },
+        {
+          "code": "0109",
+          "name": "购物公园",
+          "qp": "gouwugongyuan",
+          "jp": "gwgy",
+          "index": 8
+        },
+        {
+          "code": "0110",
+          "name": "香蜜湖",
+          "qp": "xiangmihu",
+          "jp": "xmh",
+          "index": 9
+        },
+        {
+          "code": "0111",
+          "name": "车公庙",
+          "qp": "chegongmiao",
+          "jp": "cgm",
+          "index": 10
+        },
+        {
+          "code": "0112",
+          "name": "竹子林",
+          "qp": "zhuzilin",
+          "jp": "zzl",
+          "index": 11
+        },
+        {
+          "code": "0113",
+          "name": "侨城东",
+          "qp": "qiaochengdong",
+          "jp": "qcd",
+          "index": 12
+        },
+        {
+          "code": "0114",
+          "name": "华侨城",
+          "qp": "huaqiaocheng",
+          "jp": "hqc",
+          "index": 13
+        },
+        {
+          "code": "0115",
+          "name": "世界之窗",
+          "qp": "shijiezhichuang",
+          "jp": "sjzc",
+          "index": 14
+        },
+        {
+          "code": "0116",
+          "name": "白石洲",
+          "qp": "baishizhou",
+          "jp": "bsz",
+          "index": 15
+        },
+        {
+          "code": "0117",
+          "name": "高新园",
+          "qp": "gaoxinyuan",
+          "jp": "gxy",
+          "index": 16
+        },
+        {
+          "code": "0118",
+          "name": "深大",
+          "qp": "shenda",
+          "jp": "sd",
+          "index": 17
+        },
+        {
+          "code": "0119",
+          "name": "桃园",
+          "qp": "taoyuan",
+          "jp": "ty",
+          "index": 18
+        },
+        {
+          "code": "0120",
+          "name": "大新",
+          "qp": "daxin",
+          "jp": "dx",
+          "index": 19
+        },
+        {
+          "code": "0121",
+          "name": "鲤鱼门",
+          "qp": "liyumen",
+          "jp": "lym",
+          "index": 20
+        },
+        {
+          "code": "0122",
+          "name": "前海湾",
+          "qp": "qianhaiwan",
+          "jp": "qhw",
+          "index": 21
+        },
+        {
+          "code": "0123",
+          "name": "新安",
+          "qp": "xinan",
+          "jp": "xa",
+          "index": 22
+        },
+        {
+          "code": "0124",
+          "name": "宝安中心",
+          "qp": "baoanzhongxin",
+          "jp": "bazx",
+          "index": 23
+        },
+        {
+          "code": "0125",
+          "name": "宝体",
+          "qp": "baoti",
+          "jp": "bt",
+          "index": 24
+        },
+        {
+          "code": "0126",
+          "name": "坪洲",
+          "qp": "pingzhou",
+          "jp": "pz",
+          "index": 25
+        },
+        {
+          "code": "0127",
+          "name": "西乡",
+          "qp": "xixiang",
+          "jp": "xx",
+          "index": 26
+        },
+        {
+          "code": "0128",
+          "name": "固戍",
+          "qp": "gushu",
+          "jp": "gs",
+          "index": 27
+        },
+        {
+          "code": "0129",
+          "name": "后瑞",
+          "qp": "hourui",
+          "jp": "hr",
+          "index": 28
+        },
+        {
+          "code": "0130",
+          "name": "机场东",
+          "qp": "jichangdong",
+          "jp": "jcd",
+          "index": 29
+        }
+      ],
+      "color": "#009943"
+    },
+    {
+      "id": "2",
+      "name": "2号线",
+      "from": "赤湾",
+      "to": "莲塘",
+      "stations": [
+        {
+          "code": "0201",
+          "name": "赤湾",
+          "qp": "chiwan",
+          "jp": "cw",
+          "index": 0
+        },
+        {
+          "code": "0202",
+          "name": "蛇口港",
+          "qp": "shekougang",
+          "jp": "skg",
+          "index": 1
+        },
+        {
+          "code": "0203",
+          "name": "海上世界",
+          "qp": "haishangshijie",
+          "jp": "hssj",
+          "index": 2
+        },
+        {
+          "code": "0204",
+          "name": "水湾",
+          "qp": "shuiwan",
+          "jp": "sw",
+          "index": 3
+        },
+        {
+          "code": "0205",
+          "name": "东角头",
+          "qp": "dongjiaotou",
+          "jp": "djt",
+          "index": 4
+        },
+        {
+          "code": "0206",
+          "name": "湾厦",
+          "qp": "wanxia",
+          "jp": "wx",
+          "index": 5
+        },
+        {
+          "code": "0207",
+          "name": "海月",
+          "qp": "haiyue",
+          "jp": "hy",
+          "index": 6
+        },
+        {
+          "code": "0208",
+          "name": "登良",
+          "qp": "dengliang",
+          "jp": "dl",
+          "index": 7
+        },
+        {
+          "code": "0209",
+          "name": "后海",
+          "qp": "houhai",
+          "jp": "hh",
+          "index": 8
+        },
+        {
+          "code": "0210",
+          "name": "科苑",
+          "qp": "keyuan",
+          "jp": "ky",
+          "index": 9
+        },
+        {
+          "code": "0211",
+          "name": "红树湾",
+          "qp": "hongshuwan",
+          "jp": "hsw",
+          "index": 10
+        },
+        {
+          "code": "0212",
+          "name": "世界之窗",
+          "qp": "shijiezhichuang",
+          "jp": "sjzc",
+          "index": 11
+        },
+        {
+          "code": "0213",
+          "name": "侨城北",
+          "qp": "qiaochengbie",
+          "jp": "qcb",
+          "index": 12
+        },
+        {
+          "code": "0214",
+          "name": "深康",
+          "qp": "shenkang",
+          "jp": "sk",
+          "index": 13
+        },
+        {
+          "code": "0215",
+          "name": "安托山",
+          "qp": "antuoshan",
+          "jp": "ats",
+          "index": 14
+        },
+        {
+          "code": "0216",
+          "name": "侨香",
+          "qp": "qiaoxiang",
+          "jp": "qx",
+          "index": 15
+        },
+        {
+          "code": "0217",
+          "name": "香蜜",
+          "qp": "xiangmi",
+          "jp": "xm",
+          "index": 16
+        },
+        {
+          "code": "0218",
+          "name": "香梅北",
+          "qp": "xiangmeibei",
+          "jp": "xmb",
+          "index": 17
+        },
+        {
+          "code": "0219",
+          "name": "景田",
+          "qp": "jingtian",
+          "jp": "jt",
+          "index": 18
+        },
+        {
+          "code": "0220",
+          "name": "莲花西",
+          "qp": "lianhuaxi",
+          "jp": "lhx",
+          "index": 19
+        },
+        {
+          "code": "0221",
+          "name": "福田",
+          "qp": "futian",
+          "jp": "ft",
+          "index": 20
+        },
+        {
+          "code": "0222",
+          "name": "市民中心",
+          "qp": "shiminzhongxin",
+          "jp": "smzx",
+          "index": 21
+        },
+        {
+          "code": "0223",
+          "name": "岗厦北",
+          "qp": "gangxiabei",
+          "jp": "gxb",
+          "index": 22
+        },
+        {
+          "code": "0224",
+          "name": "华强北",
+          "qp": "huaqiangbei",
+          "jp": "hqb",
+          "index": 23
+        },
+        {
+          "code": "0225",
+          "name": "燕南",
+          "qp": "yannan",
+          "jp": "yn",
+          "index": 24
+        },
+        {
+          "code": "0226",
+          "name": "大剧院",
+          "qp": "dajuyuan",
+          "jp": "djy",
+          "index": 25
+        },
+        {
+          "code": "0227",
+          "name": "湖贝",
+          "qp": "hubei",
+          "jp": "hb",
+          "index": 26
+        },
+        {
+          "code": "0228",
+          "name": "黄贝岭",
+          "qp": "huangbeiling",
+          "jp": "hbl",
+          "index": 27
+        },
+        {
+          "code": "0229",
+          "name": "新秀",
+          "qp": "xinxiu",
+          "jp": "xx",
+          "index": 28
+        },
+        {
+          "code": "0230",
+          "name": "莲塘口岸",
+          "qp": "liantangkoan",
+          "jp": "ltka",
+          "index": 29
+        },
+        {
+          "code": "0231",
+          "name": "仙湖路",
+          "qp": "xianhulu",
+          "jp": "xhl",
+          "index": 30
+        },
+        {
+          "code": "0232",
+          "name": "莲塘",
+          "qp": "liantang",
+          "jp": "lt",
+          "index": 31
+        }
+      ],
+      "color": "#915028"
+    },
+    {
+      "id": "3",
+      "name": "3号线",
+      "from": "福保",
+      "to": "坪地六联",
+      "stations": [
+        {
+          "code": "0301",
+          "name": "福保",
+          "qp": "fubao",
+          "jp": "fb",
+          "index": 0
+        },
+        {
+          "code": "0302",
+          "name": "益田",
+          "qp": "yitian",
+          "jp": "yt",
+          "index": 1
+        },
+        {
+          "code": "0303",
+          "name": "石厦",
+          "qp": "shixia",
+          "jp": "sx",
+          "index": 2
+        },
+        {
+          "code": "0304",
+          "name": "购物公园",
+          "qp": "gouwuzhongxin",
+          "jp": "gwzx",
+          "index": 3
+        },
+        {
+          "code": "0305",
+          "name": "福田",
+          "qp": "futian",
+          "jp": "ft",
+          "index": 4
+        },
+        {
+          "code": "0306",
+          "name": "少年宫",
+          "qp": "shaoniangong",
+          "jp": "sng",
+          "index": 5
+        },
+        {
+          "code": "0307",
+          "name": "莲花村",
+          "qp": "lianhuacun",
+          "jp": "lhc",
+          "index": 6
+        },
+        {
+          "code": "0308",
+          "name": "华新",
+          "qp": "huaxin",
+          "jp": "hx",
+          "index": 7
+        },
+        {
+          "code": "0309",
+          "name": "通新岭",
+          "qp": "tongxinling",
+          "jp": "txl",
+          "index": 8
+        },
+        {
+          "code": "0310",
+          "name": "红岭",
+          "qp": "hongling",
+          "jp": "hl",
+          "index": 9
+        },
+        {
+          "code": "0311",
+          "name": "老街",
+          "qp": "laojie",
+          "jp": "lj",
+          "index": 10
+        },
+        {
+          "code": "0312",
+          "name": "晒布",
+          "qp": "shaibu",
+          "jp": "sb",
+          "index": 11
+        },
+        {
+          "code": "0313",
+          "name": "翠竹",
+          "qp": "cuizhu",
+          "jp": "cz",
+          "index": 12
+        },
+        {
+          "code": "0314",
+          "name": "田贝",
+          "qp": "tianbei",
+          "jp": "tb",
+          "index": 13
+        },
+        {
+          "code": "0315",
+          "name": "水贝",
+          "qp": "shuibei",
+          "jp": "sb",
+          "index": 14
+        },
+        {
+          "code": "0316",
+          "name": "草埔",
+          "qp": "caopu",
+          "jp": "cp",
+          "index": 15
+        },
+        {
+          "code": "0317",
+          "name": "布吉",
+          "qp": "buji",
+          "jp": "bj",
+          "index": 16
+        },
+        {
+          "code": "0318",
+          "name": "木棉湾",
+          "qp": "mumianwan",
+          "jp": "mmw",
+          "index": 17
+        },
+        {
+          "code": "0319",
+          "name": "大芬",
+          "qp": "dafen",
+          "jp": "df",
+          "index": 18
+        },
+        {
+          "code": "0320",
+          "name": "丹竹头",
+          "qp": "danzhutou",
+          "jp": "dzt",
+          "index": 19
+        },
+        {
+          "code": "0321",
+          "name": "六约",
+          "qp": "liuyue",
+          "jp": "ly",
+          "index": 20
+        },
+        {
+          "code": "0322",
+          "name": "塘坑",
+          "qp": "tangkeng",
+          "jp": "tk",
+          "index": 21
+        },
+        {
+          "code": "0323",
+          "name": "横岗",
+          "qp": "henggang",
+          "jp": "hg",
+          "index": 22
+        },
+        {
+          "code": "0324",
+          "name": "永湖",
+          "qp": "yonghu",
+          "jp": "yh",
+          "index": 23
+        },
+        {
+          "code": "0325",
+          "name": "荷坳",
+          "qp": "heao",
+          "jp": "ha",
+          "index": 24
+        },
+        {
+          "code": "0326",
+          "name": "大运",
+          "qp": "dayun",
+          "jp": "dy",
+          "index": 25
+        },
+        {
+          "code": "0327",
+          "name": "爱联",
+          "qp": "ailian",
+          "jp": "al",
+          "index": 26
+        },
+        {
+          "code": "0328",
+          "name": "吉祥",
+          "qp": "jixiang",
+          "jp": "jx",
+          "index": 27
+        },
+        {
+          "code": "0329",
+          "name": "龙城广场",
+          "qp": "longchengguangchang",
+          "jp": "lcgc",
+          "index": 28
+        },
+        {
+          "code": "0330",
+          "name": "南联",
+          "qp": "nanlian",
+          "jp": "nl",
+          "index": 29
+        },
+        {
+          "code": "0331",
+          "name": "双龙",
+          "qp": "shuanglong",
+          "jp": "sl",
+          "index": 30
+        },
+        {
+          "code": "0332",
+          "name": "梨园",
+          "qp": "liyuan",
+          "jp": "ly",
+          "index": 31
+        },
+        {
+          "code": "0333",
+          "name": "新生",
+          "qp": "xinsheng",
+          "jp": "xs",
+          "index": 32
+        },
+        {
+          "code": "0334",
+          "name": "坪西",
+          "qp": "pingxi",
+          "jp": "px",
+          "index": 33
+        },
+        {
+          "code": "0335",
+          "name": "低碳城",
+          "qp": "ditancheng",
+          "jp": "dtc",
+          "index": 34
+        },
+        {
+          "code": "0336",
+          "name": "白石塘",
+          "qp": "baishitang",
+          "jp": "bst",
+          "index": 35
+        },
+        {
+          "code": "0337",
+          "name": "富坪",
+          "qp": "fuping",
+          "jp": "fp",
+          "index": 36
+        },
+        {
+          "code": "0338",
+          "name": "坪地六联",
+          "qp": "pingdiliulian",
+          "jp": "pdll",
+          "index": 37
+        }
+      ],
+      "color": "#0087d2"
+    },
+    {
+      "id": "4",
+      "name": "4号线",
+      "from": "福田口岸",
+      "to": "牛湖",
+      "stations": [
+        {
+          "code": "0401",
+          "name": "福田口岸",
+          "qp": "futiankouan",
+          "jp": "ftka",
+          "index": 0
+        },
+        {
+          "code": "0402",
+          "name": "福民",
+          "qp": "fumin",
+          "jp": "fm",
+          "index": 1
+        },
+        {
+          "code": "0403",
+          "name": "会展中心",
+          "qp": "huizhanzhongxin",
+          "jp": "hzzx",
+          "index": 2
+        },
+        {
+          "code": "0404",
+          "name": "市民中心",
+          "qp": "shiminzhongxin",
+          "jp": "smzx",
+          "index": 3
+        },
+        {
+          "code": "0405",
+          "name": "少年宫",
+          "qp": "shaoniangong",
+          "jp": "sng",
+          "index": 4
+        },
+        {
+          "code": "0406",
+          "name": "莲花北",
+          "qp": "lianhuabei",
+          "jp": "lhb",
+          "index": 5
+        },
+        {
+          "code": "0407",
+          "name": "上梅林",
+          "qp": "shangmeilin",
+          "jp": "sml",
+          "index": 6
+        },
+        {
+          "code": "0408",
+          "name": "民乐",
+          "qp": "minle",
+          "jp": "ml",
+          "index": 7
+        },
+        {
+          "code": "0409",
+          "name": "白石龙",
+          "qp": "baishilong",
+          "jp": "bsl",
+          "index": 8
+        },
+        {
+          "code": "0410",
+          "name": "深圳北站",
+          "qp": "shenzhenbei",
+          "jp": "szb",
+          "index": 9
+        },
+        {
+          "code": "0411",
+          "name": "红山",
+          "qp": "hongshan",
+          "jp": "hs",
+          "index": 10
+        },
+        {
+          "code": "0412",
+          "name": "上塘",
+          "qp": "shangtang",
+          "jp": "st",
+          "index": 11
+        },
+        {
+          "code": "0413",
+          "name": "龙胜",
+          "qp": "longsheng",
+          "jp": "ls",
+          "index": 12
+        },
+        {
+          "code": "0414",
+          "name": "龙华",
+          "qp": "longhua",
+          "jp": "lh",
+          "index": 13
+        },
+        {
+          "code": "0415",
+          "name": "清湖",
+          "qp": "qinghu",
+          "jp": "qh",
+          "index": 14
+        },
+        {
+          "code": "0416",
+          "name": "清湖北",
+          "qp": "qinhubei",
+          "jp": "qhb",
+          "index": 15
+        },
+        {
+          "code": "0417",
+          "name": "竹村",
+          "qp": "zhucun",
+          "jp": "zc",
+          "index": 16
+        },
+        {
+          "code": "0418",
+          "name": "茜坑",
+          "qp": "xikeng",
+          "jp": "xk",
+          "index": 17
+        },
+        {
+          "code": "0419",
+          "name": "长湖",
+          "qp": "changhu",
+          "jp": "ch",
+          "index": 18
+        },
+        {
+          "code": "0420",
+          "name": "观澜",
+          "qp": "guanlan",
+          "jp": "gl",
+          "index": 19
+        },
+        {
+          "code": "0421",
+          "name": "松元厦",
+          "qp": "songyuanxia",
+          "jp": "syx",
+          "index": 20
+        },
+        {
+          "code": "0422",
+          "name": "观澜湖",
+          "qp": "guanlanhu",
+          "jp": "glh",
+          "index": 21
+        },
+        {
+          "code": "0423",
+          "name": "牛湖",
+          "qp": "niuhu",
+          "jp": "nh",
+          "index": 22
+        }
+      ],
+      "color": "#be0f19"
+    },
+    {
+      "id": "5",
+      "name": "5号线",
+      "from": "赤湾",
+      "to": "大剧院",
+      "stations": [
+        {
+          "code": "0501",
+          "name": "赤湾",
+          "qp": "chiwan",
+          "jp": "cw",
+          "index": 0
+        },
+        {
+          "code": "0502",
+          "name": "荔湾",
+          "qp": "liwan",
+          "jp": "lw",
+          "index": 1
+        },
+        {
+          "code": "0503",
+          "name": "铁路公园",
+          "qp": "tielugongyuan",
+          "jp": "tlgy",
+          "index": 2
+        },
+        {
+          "code": "0504",
+          "name": "妈湾",
+          "qp": "mawan",
+          "jp": "mw",
+          "index": 3
+        },
+        {
+          "code": "0505",
+          "name": "前湾公园",
+          "qp": "qianwangongyuan",
+          "jp": "qwgy",
+          "index": 4
+        },
+        {
+          "code": "0506",
+          "name": "前湾",
+          "qp": "qianwan",
+          "jp": "qw",
+          "index": 5
+        },
+        {
+          "code": "0507",
+          "name": "桂湾",
+          "qp": "guiwan",
+          "jp": "gw",
+          "index": 6
+        },
+        {
+          "code": "0508",
+          "name": "前海湾",
+          "qp": "qianhaiwan",
+          "jp": "qhw",
+          "index": 7
+        },
+        {
+          "code": "0509",
+          "name": "临海",
+          "qp": "linhai",
+          "jp": "lh",
+          "index": 8
+        },
+        {
+          "code": "0510",
+          "name": "宝华",
+          "qp": "baohua",
+          "jp": "bh",
+          "index": 9
+        },
+        {
+          "code": "0511",
+          "name": "宝安中心",
+          "qp": "baoanzhongxin",
+          "jp": "bazx",
+          "index": 10
+        },
+        {
+          "code": "0512",
+          "name": "翻身",
+          "qp": "fanshen",
+          "jp": "fs",
+          "index": 11
+        },
+        {
+          "code": "0513",
+          "name": "灵芝",
+          "qp": "lingzhi",
+          "jp": "lz",
+          "index": 12
+        },
+        {
+          "code": "0514",
+          "name": "洪浪北",
+          "qp": "honglangbei",
+          "jp": "hlb",
+          "index": 13
+        },
+        {
+          "code": "0515",
+          "name": "兴东",
+          "qp": "xingdong",
+          "jp": "xd",
+          "index": 14
+        },
+        {
+          "code": "0516",
+          "name": "留仙洞",
+          "qp": "liuxiandong",
+          "jp": "lxd",
+          "index": 15
+        },
+        {
+          "code": "0517",
+          "name": "西丽",
+          "qp": "xili",
+          "jp": "xl",
+          "index": 16
+        },
+        {
+          "code": "0518",
+          "name": "大学城",
+          "qp": "daxuecheng",
+          "jp": "dxc",
+          "index": 17
+        },
+        {
+          "code": "0519",
+          "name": "塘朗",
+          "qp": "tanglang",
+          "jp": "tl",
+          "index": 18
+        },
+        {
+          "code": "0520",
+          "name": "长岭陂",
+          "qp": "changlingpo",
+          "jp": "clp",
+          "index": 19
+        },
+        {
+          "code": "0521",
+          "name": "深圳北站",
+          "qp": "shenzhenbei",
+          "jp": "szb",
+          "index": 20
+        },
+        {
+          "code": "0522",
+          "name": "民治",
+          "qp": "minzhi",
+          "jp": "mz",
+          "index": 21
+        },
+        {
+          "code": "0523",
+          "name": "五和",
+          "qp": "wuhe",
+          "jp": "wh",
+          "index": 22
+        },
+        {
+          "code": "0524",
+          "name": "坂田",
+          "qp": "bantian",
+          "jp": "bt",
+          "index": 23
+        },
+        {
+          "code": "0525",
+          "name": "杨美",
+          "qp": "yangmei",
+          "jp": "ym",
+          "index": 24
+        },
+        {
+          "code": "0526",
+          "name": "上水径",
+          "qp": "shangshuijing",
+          "jp": "ssj",
+          "index": 25
+        },
+        {
+          "code": "0527",
+          "name": "下水径",
+          "qp": "xiashuijing",
+          "jp": "xsj",
+          "index": 26
+        },
+        {
+          "code": "0528",
+          "name": "长龙",
+          "qp": "changlong",
+          "jp": "cl",
+          "index": 27
+        },
+        {
+          "code": "0529",
+          "name": "布吉",
+          "qp": "buji",
+          "jp": "bj",
+          "index": 28
+        },
+        {
+          "code": "0530",
+          "name": "百鸽笼",
+          "qp": "baigelong",
+          "jp": "bgl",
+          "index": 29
+        },
+        {
+          "code": "0531",
+          "name": "布心",
+          "qp": "buxin",
+          "jp": "bx",
+          "index": 30
+        },
+        {
+          "code": "0532",
+          "name": "太安",
+          "qp": "taian",
+          "jp": "ta",
+          "index": 31
+        },
+        {
+          "code": "0533",
+          "name": "怡景",
+          "qp": "yijing",
+          "jp": "yj",
+          "index": 32
+        },
+        {
+          "code": "0534",
+          "name": "黄贝岭",
+          "qp": "huangbeiling",
+          "jp": "hbl",
+          "index": 33
+        },
+        {
+          "code": "0535",
+          "name": "湖贝",
+          "qp": "hubei",
+          "jp": "hb",
+          "index": 34
+        },
+        {
+          "code": "0536",
+          "name": "东门",
+          "qp": "dongmen",
+          "jp": "dm",
+          "index": 35
+        },
+        {
+          "code": "0537",
+          "name": "大剧院",
+          "qp": "dajuyuan",
+          "jp": "djy",
+          "index": 36
+        }
+      ],
+      "color": "#824b82"
+    },
+    {
+      "id": "6",
+      "name": "6号线",
+      "from": "科学馆",
+      "to": "松岗",
+      "stations": [
+        {
+          "code": "0601",
+          "name": "科学馆",
+          "qp": "kexueguan",
+          "jp": "kxg",
+          "index": 0
+        },
+        {
+          "code": "0602",
+          "name": "通新岭",
+          "qp": "tongxinling",
+          "jp": "txl",
+          "index": 1
+        },
+        {
+          "code": "0603",
+          "name": "体育中心",
+          "qp": "tiyuzhongxin",
+          "jp": "tyzx",
+          "index": 2
+        },
+        {
+          "code": "0604",
+          "name": "八卦岭",
+          "qp": "bagualing",
+          "jp": "bgl",
+          "index": 3
+        },
+        {
+          "code": "0605",
+          "name": "银湖",
+          "qp": "yinhu",
+          "jp": "yh",
+          "index": 4
+        },
+        {
+          "code": "0606",
+          "name": "翰岭",
+          "qp": "hanling",
+          "jp": "hl",
+          "index": 5
+        },
+        {
+          "code": "0607",
+          "name": "梅林关",
+          "qp": "meilinguan",
+          "jp": "mlg",
+          "index": 6
+        },
+        {
+          "code": "0608",
+          "name": "深圳北站",
+          "qp": "shenzhenbei",
+          "jp": "szb",
+          "index": 7
+        },
+        {
+          "code": "0609",
+          "name": "红山",
+          "qp": "hongshan",
+          "jp": "hs",
+          "index": 8
+        },
+        {
+          "code": "0610",
+          "name": "上芬",
+          "qp": "shangfen",
+          "jp": "sf",
+          "index": 9
+        },
+        {
+          "code": "0611",
+          "name": "元芬",
+          "qp": "yuanfen",
+          "jp": "yf",
+          "index": 10
+        },
+        {
+          "code": "0612",
+          "name": "阳台山东",
+          "qp": "yangtaishangdong",
+          "jp": "ytsd",
+          "index": 11
+        },
+        {
+          "code": "0613",
+          "name": "官田",
+          "qp": "guantian",
+          "jp": "gt",
+          "index": 12
+        },
+        {
+          "code": "0614",
+          "name": "上屋",
+          "qp": "shangwu",
+          "jp": "sw",
+          "index": 13
+        },
+        {
+          "code": "0615",
+          "name": "长圳",
+          "qp": "changzhen",
+          "jp": "cz",
+          "index": 14
+        },
+        {
+          "code": "0616",
+          "name": "凤凰城",
+          "qp": "fenghuangcheng",
+          "jp": "fhc",
+          "index": 15
+        },
+        {
+          "code": "0617",
+          "name": "光明大街",
+          "qp": "guangmingdajie",
+          "jp": "gmdj",
+          "index": 16
+        },
+        {
+          "code": "0618",
+          "name": "光明",
+          "qp": "guangming",
+          "jp": "gm",
+          "index": 17
+        },
+        {
+          "code": "0619",
+          "name": "科学公园",
+          "qp": "kexuegongyuan",
+          "jp": "kxgy",
+          "index": 18
+        },
+        {
+          "code": "0620",
+          "name": "楼村",
+          "qp": "loucun",
+          "jp": "lc",
+          "index": 19
+        },
+        {
+          "code": "0621",
+          "name": "红花山",
+          "qp": "honghuashan",
+          "jp": "hhs",
+          "index": 20
+        },
+        {
+          "code": "0622",
+          "name": "公明广场",
+          "qp": "gongmingguangchang",
+          "jp": "gmgc",
+          "index": 21
+        },
+        {
+          "code": "0623",
+          "name": "合水口",
+          "qp": "heshuikou",
+          "jp": "hsk",
+          "index": 22
+        },
+        {
+          "code": "0624",
+          "name": "薯田埔",
+          "qp": "shutianpu",
+          "jp": "stp",
+          "index": 23
+        },
+        {
+          "code": "0625",
+          "name": "松岗公园",
+          "qp": "songganggongyuan",
+          "jp": "sggy",
+          "index": 24
+        },
+        {
+          "code": "0626",
+          "name": "溪头",
+          "qp": "xitou",
+          "jp": "xt",
+          "index": 25
+        },
+        {
+          "code": "0627",
+          "name": "松岗",
+          "qp": "songgang",
+          "jp": "sg",
+          "index": 26
+        }
+      ],
+      "color": "#02c8b9"
+    },
+    {
+      "id": "66",
+      "name": "6号线支线",
+      "from": "光明城",
+      "to": "深理工",
+      "stations": [
+        {
+          "code": "6601",
+          "name": "光明城",
+          "qp": "guangmingcheng",
+          "jp": "gmc",
+          "index": 0
+        },
+        {
+          "code": "6602",
+          "name": "虹桥公园",
+          "qp": "hongqiaogongyuan",
+          "jp": "hqgy",
+          "index": 1
+        },
+        {
+          "code": "6603",
+          "name": "碧眼",
+          "qp": "biyan",
+          "jp": "by",
+          "index": 2
+        },
+        {
+          "code": "6604",
+          "name": "光明",
+          "qp": "guangming",
+          "jp": "gm",
+          "index": 3
+        },
+        {
+          "code": "6605",
+          "name": "圳美",
+          "qp": "shenmei",
+          "jp": "sm",
+          "index": 4
+        },
+        {
+          "code": "6606",
+          "name": "中大",
+          "qp": "zhongda",
+          "jp": "zd",
+          "index": 5
+        },
+        {
+          "code": "6607",
+          "name": "深理工",
+          "qp": "shenligong",
+          "jp": "slg",
+          "index": 6
+        }
+      ],
+      "color": "#219089"
+    },
+    {
+      "id": "7",
+      "name": "7号线",
+      "from": "深大丽湖",
+      "to": "太安",
+      "stations": [
+        {
+          "code": "0701",
+          "name": "深大丽湖",
+          "qp": "shendalihu",
+          "jp": "sdlh",
+          "index": 0
+        },
+        {
+          "code": "0702",
+          "name": "北大",
+          "qp": "beida",
+          "jp": "bd",
+          "index": 1
+        },
+        {
+          "code": "0703",
+          "name": "西丽湖",
+          "qp": "xilihu",
+          "jp": "xlh",
+          "index": 2
+        },
+        {
+          "code": "0704",
+          "name": "西丽",
+          "qp": "xili",
+          "jp": "xl",
+          "index": 3
+        },
+        {
+          "code": "0705",
+          "name": "茶光",
+          "qp": "chaguang",
+          "jp": "cg",
+          "index": 4
+        },
+        {
+          "code": "0706",
+          "name": "珠光",
+          "qp": "zhuguang",
+          "jp": "zg",
+          "index": 5
+        },
+        {
+          "code": "0707",
+          "name": "龙井",
+          "qp": "longjing",
+          "jp": "lj",
+          "index": 6
+        },
+        {
+          "code": "0708",
+          "name": "桃源村",
+          "qp": "taoyuancun",
+          "jp": "tyc",
+          "index": 7
+        },
+        {
+          "code": "0709",
+          "name": "深云",
+          "qp": "shenyun",
+          "jp": "sy",
+          "index": 8
+        },
+        {
+          "code": "0710",
+          "name": "安托山",
+          "qp": "antuoshan",
+          "jp": "ats",
+          "index": 9
+        },
+        {
+          "code": "0711",
+          "name": "农林",
+          "qp": "nonglin",
+          "jp": "nl",
+          "index": 10
+        },
+        {
+          "code": "0712",
+          "name": "车公庙",
+          "qp": "chegongmiao",
+          "jp": "cgm",
+          "index": 11
+        },
+        {
+          "code": "0713",
+          "name": "上沙",
+          "qp": "shangsha",
+          "jp": "ss",
+          "index": 12
+        },
+        {
+          "code": "0714",
+          "name": "沙尾",
+          "qp": "shawei",
+          "jp": "sw",
+          "index": 13
+        },
+        {
+          "code": "0715",
+          "name": "石厦",
+          "qp": "shixia",
+          "jp": "sx",
+          "index": 14
+        },
+        {
+          "code": "0716",
+          "name": "皇岗村",
+          "qp": "huanggangcun",
+          "jp": "hgc",
+          "index": 15
+        },
+        {
+          "code": "0717",
+          "name": "福民",
+          "qp": "fumin",
+          "jp": "fm",
+          "index": 16
+        },
+        {
+          "code": "0718",
+          "name": "皇岗口岸",
+          "qp": "huanggangkouan",
+          "jp": "hgka",
+          "index": 17
+        },
+        {
+          "code": "0719",
+          "name": "赤尾",
+          "qp": "chiwei",
+          "jp": "cw",
+          "index": 18
+        },
+        {
+          "code": "0720",
+          "name": "华强南",
+          "qp": "huaqiangnan",
+          "jp": "hqn",
+          "index": 19
+        },
+        {
+          "code": "0721",
+          "name": "华强北",
+          "qp": "huaqiangbei",
+          "jp": "hqb",
+          "index": 20
+        },
+        {
+          "code": "0722",
+          "name": "华新",
+          "qp": "huaxin",
+          "jp": "hx",
+          "index": 21
+        },
+        {
+          "code": "0723",
+          "name": "黄木岗",
+          "qp": "huangmugang",
+          "jp": "hmg",
+          "index": 22
+        },
+        {
+          "code": "0724",
+          "name": "八卦岭",
+          "qp": "bagualing",
+          "jp": "bgl",
+          "index": 23
+        },
+        {
+          "code": "0725",
+          "name": "红岭北",
+          "qp": "honglingbei",
+          "jp": "hlb",
+          "index": 24
+        },
+        {
+          "code": "0726",
+          "name": "笋岗",
+          "qp": "sungang",
+          "jp": "sg",
+          "index": 25
+        },
+        {
+          "code": "0727",
+          "name": "洪湖",
+          "qp": "honghu",
+          "jp": "hh",
+          "index": 26
+        },
+        {
+          "code": "0728",
+          "name": "田贝",
+          "qp": "tianbei",
+          "jp": "tb",
+          "index": 27
+        },
+        {
+          "code": "0729",
+          "name": "太安",
+          "qp": "taian",
+          "jp": "ta",
+          "index": 28
+        }
+      ],
+      "color": "#0a3282"
+    },
+    {
+      "id": "8",
+      "name": "8号线",
+      "from": "梧桐山南",
+      "to": "溪涌",
+      "stations": [
+        {
+          "code": "0802",
+          "name": "梧桐山南",
+          "qp": "wutongshannan",
+          "jp": "wtsn",
+          "index": 0
+        },
+        {
+          "code": "0803",
+          "name": "沙头角",
+          "qp": "shatoujiao",
+          "jp": "stj",
+          "index": 1
+        },
+        {
+          "code": "0804",
+          "name": "海山",
+          "qp": "haishan",
+          "jp": "hs",
+          "index": 2
+        },
+        {
+          "code": "0805",
+          "name": "盐田港西",
+          "qp": "yantiangangxi",
+          "jp": "ytgx",
+          "index": 3
+        },
+        {
+          "code": "0806",
+          "name": "深外高中",
+          "qp": "shenwaigaozhong",
+          "jp": "swgz",
+          "index": 4
+        },
+        {
+          "code": "0807",
+          "name": "盐田路",
+          "qp": "yantianlu",
+          "jp": "ytl",
+          "index": 5
+        },
+        {
+          "code": "0808",
+          "name": "鸿安围",
+          "qp": "honganwei",
+          "jp": "haw",
+          "index": 6
+        },
+        {
+          "code": "0809",
+          "name": "盐田墟",
+          "qp": "yantianxu",
+          "jp": "ytx",
+          "index": 7
+        },
+        {
+          "code": "0810",
+          "name": "大梅沙",
+          "qp": "dameisha",
+          "jp": "dms",
+          "index": 8
+        },
+        {
+          "code": "0811",
+          "name": "小梅沙",
+          "qp": "xiaomeisha",
+          "jp": "xms",
+          "index": 9
+        },
+        {
+          "code": "0812",
+          "name": "溪涌",
+          "qp": "xichong",
+          "jp": "xc",
+          "index": 10
+        }
+      ],
+      "color": "#915028"
+    },
+    {
+      "id": "9",
+      "name": "9号线",
+      "from": "前湾",
+      "to": "文锦",
+      "stations": [
+        {
+          "code": "0901",
+          "name": "前湾",
+          "qp": "qianwan",
+          "jp": "qw",
+          "index": 0
+        },
+        {
+          "code": "0902",
+          "name": "梦海",
+          "qp": "menghai",
+          "jp": "mh",
+          "index": 1
+        },
+        {
+          "code": "0903",
+          "name": "怡海",
+          "qp": "yihai",
+          "jp": "yh",
+          "index": 2
+        },
+        {
+          "code": "0904",
+          "name": "荔林",
+          "qp": "lilin",
+          "jp": "ll",
+          "index": 3
+        },
+        {
+          "code": "0905",
+          "name": "南油西",
+          "qp": "nanyouxi",
+          "jp": "nyx",
+          "index": 4
+        },
+        {
+          "code": "0906",
+          "name": "南油",
+          "qp": "nanyou",
+          "jp": "ny",
+          "index": 5
+        },
+        {
+          "code": "0907",
+          "name": "南山书城",
+          "qp": "nanshanshucheng",
+          "jp": "nssc",
+          "index": 6
+        },
+        {
+          "code": "0908",
+          "name": "深大南",
+          "qp": "shendanan",
+          "jp": "sdn",
+          "index": 7
+        },
+        {
+          "code": "0909",
+          "name": "粤海门",
+          "qp": "yuehaimen",
+          "jp": "yhm",
+          "index": 8
+        },
+        {
+          "code": "0910",
+          "name": "高新南",
+          "qp": "gaoxinnan",
+          "jp": "gxn",
+          "index": 9
+        },
+        {
+          "code": "0911",
+          "name": "红树湾南",
+          "qp": "hongshuwannan",
+          "jp": "hswn",
+          "index": 10
+        },
+        {
+          "code": "0912",
+          "name": "深湾",
+          "qp": "shenwan",
+          "jp": "sw",
+          "index": 11
+        },
+        {
+          "code": "0913",
+          "name": "深圳湾公园",
+          "qp": "shenzhenwangongyuan",
+          "jp": "szwgy",
+          "index": 12
+        },
+        {
+          "code": "0914",
+          "name": "下沙",
+          "qp": "xiasha",
+          "jp": "xs",
+          "index": 13
+        },
+        {
+          "code": "0915",
+          "name": "车公庙",
+          "qp": "chegongmiao",
+          "jp": "cgm",
+          "index": 14
+        },
+        {
+          "code": "0916",
+          "name": "香梅",
+          "qp": "xiangmei",
+          "jp": "xm",
+          "index": 15
+        },
+        {
+          "code": "0917",
+          "name": "景田",
+          "qp": "jingtian",
+          "jp": "jt",
+          "index": 16
+        },
+        {
+          "code": "0918",
+          "name": "梅景",
+          "qp": "meijing",
+          "jp": "mj",
+          "index": 17
+        },
+        {
+          "code": "0919",
+          "name": "下梅林",
+          "qp": "xiameilin",
+          "jp": "xml",
+          "index": 18
+        },
+        {
+          "code": "0920",
+          "name": "梅村",
+          "qp": "meicun",
+          "jp": "mc",
+          "index": 19
+        },
+        {
+          "code": "0921",
+          "name": "上梅林",
+          "qp": "shangmeilin",
+          "jp": "sml",
+          "index": 20
+        },
+        {
+          "code": "0922",
+          "name": "孖岭",
+          "qp": "maling",
+          "jp": "ml",
+          "index": 21
+        },
+        {
+          "code": "0923",
+          "name": "银湖",
+          "qp": "yinhu",
+          "jp": "yh",
+          "index": 22
+        },
+        {
+          "code": "0924",
+          "name": "泥岗",
+          "qp": "nigang",
+          "jp": "ng",
+          "index": 23
+        },
+        {
+          "code": "0925",
+          "name": "红岭北",
+          "qp": "honglingbei",
+          "jp": "hlb",
+          "index": 24
+        },
+        {
+          "code": "0926",
+          "name": "园岭",
+          "qp": "yuanling",
+          "jp": "yl",
+          "index": 25
+        },
+        {
+          "code": "0927",
+          "name": "红岭",
+          "qp": "hongling",
+          "jp": "hl",
+          "index": 26
+        },
+        {
+          "code": "0928",
+          "name": "红岭南",
+          "qp": "honglingnan",
+          "jp": "hln",
+          "index": 27
+        },
+        {
+          "code": "0929",
+          "name": "鹿丹村",
+          "qp": "ludancun",
+          "jp": "ldc",
+          "index": 28
+        },
+        {
+          "code": "0930",
+          "name": "人民南",
+          "qp": "renminnan",
+          "jp": "rmn",
+          "index": 29
+        },
+        {
+          "code": "0931",
+          "name": "向西村",
+          "qp": "xiangxicun",
+          "jp": "xxc",
+          "index": 30
+        },
+        {
+          "code": "0932",
+          "name": "文锦",
+          "qp": "wenjin",
+          "jp": "wj",
+          "index": 31
+        }
+      ],
+      "color": "#82646e"
+    },
+    {
+      "id": "10",
+      "name": "10号线",
+      "from": "福田口岸",
+      "to": "双拥街",
+      "stations": [
+        {
+          "code": "1001",
+          "name": "福田口岸",
+          "qp": "futiankouan",
+          "jp": "ftka",
+          "index": 0
+        },
+        {
+          "code": "1002",
+          "name": "福民",
+          "qp": "fumin",
+          "jp": "fm",
+          "index": 1
+        },
+        {
+          "code": "1003",
+          "name": "岗厦",
+          "qp": "gangxia",
+          "jp": "gx",
+          "index": 2
+        },
+        {
+          "code": "1004",
+          "name": "岗厦北",
+          "qp": "gangxiabei",
+          "jp": "gxb",
+          "index": 3
+        },
+        {
+          "code": "1005",
+          "name": "莲花村",
+          "qp": "lianhuacun",
+          "jp": "lhc",
+          "index": 4
+        },
+        {
+          "code": "1006",
+          "name": "冬瓜岭",
+          "qp": "donggualing",
+          "jp": "dgl",
+          "index": 5
+        },
+        {
+          "code": "1007",
+          "name": "孖岭",
+          "qp": "maling",
+          "jp": "ml",
+          "index": 6
+        },
+        {
+          "code": "1008",
+          "name": "雅宝",
+          "qp": "yabao",
+          "jp": "yb",
+          "index": 7
+        },
+        {
+          "code": "1009",
+          "name": "南坑",
+          "qp": "nankeng",
+          "jp": "nk",
+          "index": 8
+        },
+        {
+          "code": "1010",
+          "name": "光雅园",
+          "qp": "guangyayuan",
+          "jp": "gyy",
+          "index": 9
+        },
+        {
+          "code": "1011",
+          "name": "五和",
+          "qp": "wuhe",
+          "jp": "wh",
+          "index": 10
+        },
+        {
+          "code": "1012",
+          "name": "坂田北",
+          "qp": "bantianbei",
+          "jp": "btb",
+          "index": 11
+        },
+        {
+          "code": "1013",
+          "name": "贝尔路",
+          "qp": "beierlu",
+          "jp": "bel",
+          "index": 12
+        },
+        {
+          "code": "1014",
+          "name": "华为",
+          "qp": "huawei",
+          "jp": "hw",
+          "index": 13
+        },
+        {
+          "code": "1015",
+          "name": "岗头",
+          "qp": "gangtou",
+          "jp": "gt",
+          "index": 14
+        },
+        {
+          "code": "1016",
+          "name": "雪象",
+          "qp": "xuexiang",
+          "jp": "xx",
+          "index": 15
+        },
+        {
+          "code": "1017",
+          "name": "甘坑",
+          "qp": "gankeng",
+          "jp": "gk",
+          "index": 16
+        },
+        {
+          "code": "1018",
+          "name": "凉帽山",
+          "qp": "liangmaoshan",
+          "jp": "lms",
+          "index": 17
+        },
+        {
+          "code": "1019",
+          "name": "上李朗",
+          "qp": "shanglilang",
+          "jp": "sll",
+          "index": 18
+        },
+        {
+          "code": "1020",
+          "name": "木古",
+          "qp": "mugu",
+          "jp": "mg",
+          "index": 19
+        },
+        {
+          "code": "1021",
+          "name": "华南城",
+          "qp": "huanancheng",
+          "jp": "hnc",
+          "index": 20
+        },
+        {
+          "code": "1022",
+          "name": "禾花",
+          "qp": "hehua",
+          "jp": "hh",
+          "index": 21
+        },
+        {
+          "code": "1023",
+          "name": "平湖",
+          "qp": "pinghu",
+          "jp": "ph",
+          "index": 22
+        },
+        {
+          "code": "1024",
+          "name": "双拥街",
+          "qp": "shuangyongjie",
+          "jp": "syj",
+          "index": 23
+        }
+      ],
+      "color": "#f97c9c"
+    },
+    {
+      "id": "11",
+      "name": "11号线",
+      "from": "红岭南",
+      "to": "碧头",
+      "stations": [
+        {
+          "code": "1101",
+          "name": "红岭南",
+          "qp": "honglingnan",
+          "jp": "hln",
+          "index": 0
+        },
+        {
+          "code": "1102",
+          "name": "华强南",
+          "qp": "huaqiangnan",
+          "jp": "hqn",
+          "index": 1
+        },
+        {
+          "code": "1103",
+          "name": "福星",
+          "qp": "fuxing",
+          "jp": "fx",
+          "index": 2
+        },
+        {
+          "code": "1104",
+          "name": "岗厦北",
+          "qp": "gangxiabei",
+          "jp": "gxb",
+          "index": 3
+        },
+        {
+          "code": "1105",
+          "name": "福田",
+          "qp": "futian",
+          "jp": "ft",
+          "index": 4
+        },
+        {
+          "code": "1106",
+          "name": "车公庙",
+          "qp": "chegongmiao",
+          "jp": "cgm",
+          "index": 5
+        },
+        {
+          "code": "1107",
+          "name": "红树湾南",
+          "qp": "hongshuwannan",
+          "jp": "hswn",
+          "index": 6
+        },
+        {
+          "code": "1108",
+          "name": "后海",
+          "qp": "houhai",
+          "jp": "hh",
+          "index": 7
+        },
+        {
+          "code": "1109",
+          "name": "南山",
+          "qp": "nanshan",
+          "jp": "ns",
+          "index": 8
+        },
+        {
+          "code": "1110",
+          "name": "前海湾",
+          "qp": "qianhaiwan",
+          "jp": "qhw",
+          "index": 9
+        },
+        {
+          "code": "1111",
+          "name": "宝安",
+          "qp": "baoan",
+          "jp": "ba",
+          "index": 10
+        },
+        {
+          "code": "1112",
+          "name": "碧海湾",
+          "qp": "bihaiwan",
+          "jp": "bhw",
+          "index": 11
+        },
+        {
+          "code": "1113",
+          "name": "机场",
+          "qp": "jichang",
+          "jp": "jc",
+          "index": 12
+        },
+        {
+          "code": "1114",
+          "name": "机场北",
+          "qp": "jichangbei",
+          "jp": "jcb",
+          "index": 13
+        },
+        {
+          "code": "1115",
+          "name": "福永",
+          "qp": "fuyong",
+          "jp": "fy",
+          "index": 14
+        },
+        {
+          "code": "1116",
+          "name": "桥头",
+          "qp": "qiaotou",
+          "jp": "qt",
+          "index": 15
+        },
+        {
+          "code": "1117",
+          "name": "塘尾",
+          "qp": "tangwei",
+          "jp": "tw",
+          "index": 16
+        },
+        {
+          "code": "1118",
+          "name": "马安山",
+          "qp": "maanshan",
+          "jp": "mas",
+          "index": 17
+        },
+        {
+          "code": "1119",
+          "name": "沙井",
+          "qp": "shajing",
+          "jp": "sj",
+          "index": 18
+        },
+        {
+          "code": "1120",
+          "name": "后亭",
+          "qp": "houting",
+          "jp": "ht",
+          "index": 19
+        },
+        {
+          "code": "1121",
+          "name": "松岗",
+          "qp": "songgang",
+          "jp": "sg",
+          "index": 20
+        },
+        {
+          "code": "1122",
+          "name": "碧头",
+          "qp": "bitou",
+          "jp": "bt",
+          "index": 21
+        }
+      ],
+      "color": "#641937"
+    },
+    {
+      "id": "12",
+      "name": "12号线",
+      "from": "左炮台东",
+      "to": "松岗",
+      "stations": [
+        {
+          "code": "1201",
+          "name": "左炮台东",
+          "qp": "zuopaotaidong",
+          "jp": "zptd",
+          "index": 0
+        },
+        {
+          "code": "1202",
+          "name": "太子湾",
+          "qp": "taiziwan",
+          "jp": "tzw",
+          "index": 1
+        },
+        {
+          "code": "1203",
+          "name": "海上世界",
+          "qp": "taiziwan",
+          "jp": "tzw",
+          "index": 2
+        },
+        {
+          "code": "1204",
+          "name": "花果山",
+          "qp": "huaguoshan",
+          "jp": "hgs",
+          "index": 3
+        },
+        {
+          "code": "1205",
+          "name": "四海",
+          "qp": "sihai",
+          "jp": "sh",
+          "index": 4
+        },
+        {
+          "code": "1206",
+          "name": "南油",
+          "qp": "sihai",
+          "jp": "sh",
+          "index": 5
+        },
+        {
+          "code": "1207",
+          "name": "南光",
+          "qp": "nanguang",
+          "jp": "ng",
+          "index": 6
+        },
+        {
+          "code": "1208",
+          "name": "南山",
+          "qp": "nanshan",
+          "jp": "ng",
+          "index": 7
+        },
+        {
+          "code": "1209",
+          "name": "桃园",
+          "qp": "taoyuan",
+          "jp": "ty",
+          "index": 8
+        },
+        {
+          "code": "1210",
+          "name": "南头古城",
+          "qp": "nantougucheng",
+          "jp": "ntgc",
+          "index": 9
+        },
+        {
+          "code": "1211",
+          "name": "中山公园",
+          "qp": "zhongshangongyuan",
+          "jp": "zsgy",
+          "index": 10
+        },
+        {
+          "code": "1212",
+          "name": "同乐南",
+          "qp": "tonglenan",
+          "jp": "tln",
+          "index": 11
+        },
+        {
+          "code": "1213",
+          "name": "新安公园",
+          "qp": "xinangongyuan",
+          "jp": "xagy",
+          "index": 12
+        },
+        {
+          "code": "1214",
+          "name": "灵芝",
+          "qp": "lingzhi",
+          "jp": "lz",
+          "index": 13
+        },
+        {
+          "code": "1215",
+          "name": "上川",
+          "qp": "shangchuan",
+          "jp": "sc",
+          "index": 14
+        },
+        {
+          "code": "1216",
+          "name": "流塘",
+          "qp": "liutang",
+          "jp": "lt",
+          "index": 15
+        },
+        {
+          "code": "1217",
+          "name": "宝安客运站",
+          "qp": "baoankeyunzhan",
+          "jp": "bakyz",
+          "index": 16
+        },
+        {
+          "code": "1218",
+          "name": "宝田一路",
+          "qp": "baotianyilu",
+          "jp": "btyl",
+          "index": 17
+        },
+        {
+          "code": "1219",
+          "name": "平峦山",
+          "qp": "pingluanshan",
+          "jp": "pls",
+          "index": 18
+        },
+        {
+          "code": "1220",
+          "name": "西乡桃源",
+          "qp": "xixiangtaoyuan",
+          "jp": "xxty",
+          "index": 19
+        },
+        {
+          "code": "1221",
+          "name": "钟屋南",
+          "qp": "zhongwunan",
+          "jp": "zwn",
+          "index": 20
+        },
+        {
+          "code": "1222",
+          "name": "黄田",
+          "qp": "huangtian",
+          "jp": "ht",
+          "index": 21
+        },
+        {
+          "code": "1223",
+          "name": "兴围",
+          "qp": "xingwei",
+          "jp": "xw",
+          "index": 22
+        },
+        {
+          "code": "1224",
+          "name": "机场东",
+          "qp": "jichangdong",
+          "jp": "jcd",
+          "index": 23
+        },
+        {
+          "code": "1225",
+          "name": "福围",
+          "qp": "fuwei",
+          "jp": "fw",
+          "index": 24
+        },
+        {
+          "code": "1226",
+          "name": "怀德",
+          "qp": "huaide",
+          "jp": "hd",
+          "index": 25
+        },
+        {
+          "code": "1227",
+          "name": "福永",
+          "qp": "fuyong",
+          "jp": "fy",
+          "index": 26
+        },
+        {
+          "code": "1228",
+          "name": "桥头西",
+          "qp": "qiaotouxi",
+          "jp": "qtx",
+          "index": 27
+        },
+        {
+          "code": "1229",
+          "name": "福海西",
+          "qp": "fuhaixi",
+          "jp": "fhx",
+          "index": 28
+        },
+        {
+          "code": "1230",
+          "name": "国展",
+          "qp": "guozhan",
+          "jp": "gz",
+          "index": 29
+        },
+        {
+          "code": "1231",
+          "name": "国展北",
+          "qp": "guozhanbei",
+          "jp": "gzb",
+          "index": 30
+        },
+        {
+          "code": "1232",
+          "name": "海上田园南",
+          "qp": "haishangtianyuannan",
+          "jp": "hstyn",
+          "index": 31
+        },
+        {
+          "code": "1233",
+          "name": "海上田园东",
+          "qp": "haishangtianyuandong",
+          "jp": "hstyd",
+          "index": 32
+        },
+        {
+          "code": "1234",
+          "name": "蚝乡",
+          "qp": "haoxiang",
+          "jp": "hx",
+          "index": 33
+        },
+        {
+          "code": "1235",
+          "name": "沙蚝",
+          "qp": "shahao",
+          "jp": "sh",
+          "index": 34
+        },
+        {
+          "code": "1236",
+          "name": "沙井古墟",
+          "qp": "shajingguxu",
+          "jp": "sjgx",
+          "index": 35
+        },
+        {
+          "code": "1237",
+          "name": "步涌",
+          "qp": "buyong",
+          "jp": "by",
+          "index": 36
+        },
+        {
+          "code": "1238",
+          "name": "朗下",
+          "qp": "langxia",
+          "jp": "lx",
+          "index": 37
+        },
+        {
+          "code": "1239",
+          "name": "松岗",
+          "qp": "haishangtianyuandong",
+          "jp": "hstyd",
+          "index": 38
+        }
+      ],
+      "color": "#a794b0"
+    },
+    {
+      "id": "13",
+      "name": "13号线",
+      "from": "深圳湾口岸",
+      "to": "李松蓢",
+      "stations": [
+        {
+          "code": "1301",
+          "name": "深圳湾口岸",
+          "qp": "shenzhenwankouan",
+          "jp": "szwka",
+          "index": 0
+        },
+        {
+          "code": "1302",
+          "name": "人才公园",
+          "qp": "rencaigongyuan",
+          "jp": "rcgy",
+          "index": 1
+        },
+        {
+          "code": "1303",
+          "name": "后海",
+          "qp": "houhai",
+          "jp": "hh",
+          "index": 2
+        },
+        {
+          "code": "1304",
+          "name": "科苑",
+          "qp": "keyuan",
+          "jp": "ky",
+          "index": 3
+        },
+        {
+          "code": "1305",
+          "name": "粤海门",
+          "qp": "yuehaimen",
+          "jp": "yhm",
+          "index": 4
+        },
+        {
+          "code": "1306",
+          "name": "深大",
+          "qp": "shenda",
+          "jp": "sd",
+          "index": 5
+        },
+        {
+          "code": "1307",
+          "name": "高新中",
+          "qp": "gaoxinzhong",
+          "jp": "gxz",
+          "index": 6
+        },
+        {
+          "code": "1308",
+          "name": "高新北",
+          "qp": "gaoxinbei",
+          "jp": "gxb",
+          "index": 7
+        },
+        {
+          "code": "1309",
+          "name": "石鼓",
+          "qp": "shigu",
+          "jp": "sg",
+          "index": 8
+        },
+        {
+          "code": "1310",
+          "name": "留仙洞",
+          "qp": "liuxiandong",
+          "jp": "lxd",
+          "index": 9
+        },
+        {
+          "code": "1311",
+          "name": "百旺",
+          "qp": "baiwanggangda",
+          "jp": "bwgd",
+          "index": 10
+        },
+        {
+          "code": "1312",
+          "name": "应人石",
+          "qp": "yingrenshi",
+          "jp": "yrs",
+          "index": 11
+        },
+        {
+          "code": "1313",
+          "name": "罗租",
+          "qp": "luozu",
+          "jp": "lz",
+          "index": 12
+        },
+        {
+          "code": "1314",
+          "name": "石岩",
+          "qp": "shiyan",
+          "jp": "sy",
+          "index": 13
+        },
+        {
+          "code": "1315",
+          "name": "上屋",
+          "qp": "shangwu",
+          "jp": "sw",
+          "index": 14
+        },
+        {
+          "code": "1316",
+          "name": "红坳公园",
+          "qp": "hongaogongyuan",
+          "jp": "hagy",
+          "index": 15
+        },
+        {
+          "code": "1317",
+          "name": "光明城",
+          "qp": "guangmingcheng",
+          "jp": "gmc",
+          "index": 16
+        },
+        {
+          "code": "1318",
+          "name": "德雅路",
+          "qp": "deyalu",
+          "jp": "dyl",
+          "index": 17
+        },
+        {
+          "code": "1319",
+          "name": "凤凰城",
+          "qp": "fenghuangcheng",
+          "jp": "fhc",
+          "index": 18
+        },
+        {
+          "code": "1320",
+          "name": "月亮路",
+          "qp": "yuelianglu",
+          "jp": "yll",
+          "index": 19
+        },
+        {
+          "code": "1321",
+          "name": "将围",
+          "qp": "jiangwei",
+          "jp": "jw",
+          "index": 20
+        },
+        {
+          "code": "1322",
+          "name": "新庄",
+          "qp": "xinzhuang",
+          "jp": "xz",
+          "index": 21
+        },
+        {
+          "code": "1323",
+          "name": "公明广场",
+          "qp": "guangmingguangchang",
+          "jp": "gmgc",
+          "index": 22
+        },
+        {
+          "code": "1324",
+          "name": "上村",
+          "qp": "shangcun",
+          "jp": "sc",
+          "index": 23
+        },
+        {
+          "code": "1325",
+          "name": "下村",
+          "qp": "xiacun",
+          "jp": "xc",
+          "index": 24
+        },
+        {
+          "code": "1326",
+          "name": "李松蓢",
+          "qp": "lisonglang",
+          "jp": "lsl",
+          "index": 25
+        }
+      ],
+      "color": "#da830a"
+    },
+    {
+      "id": "14",
+      "name": "14号线",
+      "from": "岗厦北",
+      "to": "沙田",
+      "stations": [
+        {
+          "code": "1401",
+          "name": "岗厦北",
+          "qp": "gangxiabei",
+          "jp": "gxb",
+          "index": 0
+        },
+        {
+          "code": "1402",
+          "name": "黄木岗",
+          "qp": "huangmugang",
+          "jp": "hmg",
+          "index": 1
+        },
+        {
+          "code": "1403",
+          "name": "罗湖北",
+          "qp": "luohubei",
+          "jp": "lhb",
+          "index": 2
+        },
+        {
+          "code": "1404",
+          "name": "布吉",
+          "qp": "buji",
+          "jp": "bj",
+          "index": 3
+        },
+        {
+          "code": "1405",
+          "name": "石芽岭",
+          "qp": "shiyaling",
+          "jp": "syl",
+          "index": 4
+        },
+        {
+          "code": "1406",
+          "name": "六约北",
+          "qp": "liuyuebei",
+          "jp": "lyb",
+          "index": 5
+        },
+        {
+          "code": "1407",
+          "name": "四联",
+          "qp": "silian",
+          "jp": "sl",
+          "index": 6
+        },
+        {
+          "code": "1408",
+          "name": "坳背",
+          "qp": "aobei",
+          "jp": "ab",
+          "index": 7
+        },
+        {
+          "code": "1409",
+          "name": "大运",
+          "qp": "dayun",
+          "jp": "dy",
+          "index": 8
+        },
+        {
+          "code": "1410",
+          "name": "嶂背",
+          "qp": "zhangbei",
+          "jp": "zb",
+          "index": 9
+        },
+        {
+          "code": "1411",
+          "name": "南约",
+          "qp": "nanyue",
+          "jp": "ny",
+          "index": 10
+        },
+        {
+          "code": "1412",
+          "name": "宝龙",
+          "qp": "baolong",
+          "jp": "bl",
+          "index": 11
+        },
+        {
+          "code": "1413",
+          "name": "锦龙",
+          "qp": "jinlong",
+          "jp": "jl",
+          "index": 12
+        },
+        {
+          "code": "1414",
+          "name": "坪山围",
+          "qp": "pingshanwei",
+          "jp": "psw",
+          "index": 13
+        },
+        {
+          "code": "1415",
+          "name": "坪山广场",
+          "qp": "坪山广场",
+          "jp": "psgc",
+          "index": 14
+        },
+        {
+          "code": "1416",
+          "name": "坪山中心",
+          "qp": "pingshanzhongxin",
+          "jp": "pszx",
+          "index": 15
+        },
+        {
+          "code": "1417",
+          "name": "坑梓",
+          "qp": "kengzi",
+          "jp": "kz",
+          "index": 16
+        },
+        {
+          "code": "1418",
+          "name": "沙田",
+          "qp": "shatian",
+          "jp": "st",
+          "index": 17
+        }
+      ],
+      "color": "#edcc62"
+    },
+    {
+      "id": "16",
+      "name": "16号线",
+      "from": "园山西坑",
+      "to": "田心",
+      "stations": [
+        {
+          "code": "1601",
+          "name": "园山西坑",
+          "qp": "yuanshanxikeng",
+          "jp": "ysxk",
+          "index": 0
+        },
+        {
+          "code": "1602",
+          "name": "安良",
+          "qp": "anliang",
+          "jp": "al",
+          "index": 1
+        },
+        {
+          "code": "1603",
+          "name": "福坑",
+          "qp": "fukeng",
+          "jp": "fk",
+          "index": 2
+        },
+        {
+          "code": "1604",
+          "name": "大康",
+          "qp": "dakang",
+          "jp": "dk",
+          "index": 3
+        },
+        {
+          "code": "1605",
+          "name": "园山",
+          "qp": "yuanshan",
+          "jp": "ys",
+          "index": 4
+        },
+        {
+          "code": "1606",
+          "name": "大安",
+          "qp": "daan",
+          "jp": "da",
+          "index": 5
+        },
+        {
+          "code": "1607",
+          "name": "吉溪",
+          "qp": "jixi",
+          "jp": "jx",
+          "index": 6
+        },
+        {
+          "code": "1608",
+          "name": "金源",
+          "qp": "jinyuan",
+          "jp": "jy",
+          "index": 7
+        },
+        {
+          "code": "1609",
+          "name": "大运",
+          "qp": "dayun",
+          "jp": "dy",
+          "index": 8
+        },
+        {
+          "code": "1610",
+          "name": "大运中心",
+          "qp": "dayunzhongxin",
+          "jp": "dyzx",
+          "index": 9
+        },
+        {
+          "code": "1611",
+          "name": "龙城公园",
+          "qp": "longchenggongyuan",
+          "jp": "lcgy",
+          "index": 10
+        },
+        {
+          "code": "1612",
+          "name": "黄阁坑",
+          "qp": "huanggekeng",
+          "jp": "hgk",
+          "index": 11
+        },
+        {
+          "code": "1613",
+          "name": "愉园",
+          "qp": "yuyuan",
+          "jp": "yy",
+          "index": 12
+        },
+        {
+          "code": "1614",
+          "name": "回龙埔",
+          "qp": "hulongpu",
+          "jp": "hlp",
+          "index": 13
+        },
+        {
+          "code": "1615",
+          "name": "尚景",
+          "qp": "shangjing",
+          "jp": "sj",
+          "index": 14
+        },
+        {
+          "code": "1616",
+          "name": "盛平",
+          "qp": "shengping",
+          "jp": "sp",
+          "index": 15
+        },
+        {
+          "code": "1617",
+          "name": "龙园",
+          "qp": "longyuan",
+          "jp": "ly",
+          "index": 16
+        },
+        {
+          "code": "1618",
+          "name": "双龙",
+          "qp": "shuanglong",
+          "jp": "sl",
+          "index": 17
+        },
+        {
+          "code": "1619",
+          "name": "新塘围",
+          "qp": "xintangwei",
+          "jp": "stw",
+          "index": 18
+        },
+        {
+          "code": "1620",
+          "name": "龙东",
+          "qp": "longdong",
+          "jp": "ld",
+          "index": 19
+        },
+        {
+          "code": "1621",
+          "name": "宝龙同乐",
+          "qp": "baolongtongle",
+          "jp": "bltl",
+          "index": 20
+        },
+        {
+          "code": "1622",
+          "name": "坪山",
+          "qp": "pingshan",
+          "jp": "ps",
+          "index": 21
+        },
+        {
+          "code": "1623",
+          "name": "新和",
+          "qp": "xinhe",
+          "jp": "xh",
+          "index": 22
+        },
+        {
+          "code": "1624",
+          "name": "六和",
+          "qp": "liuhe",
+          "jp": "lh",
+          "index": 23
+        },
+        {
+          "code": "1625",
+          "name": "坪山围",
+          "qp": "pingshanwei",
+          "jp": "psw",
+          "index": 24
+        },
+        {
+          "code": "1626",
+          "name": "坪环",
+          "qp": "pinghuan",
+          "jp": "ph",
+          "index": 25
+        },
+        {
+          "code": "1627",
+          "name": "东纵纪念馆",
+          "qp": "dongzongjinianguan",
+          "jp": "dzjng",
+          "index": 26
+        },
+        {
+          "code": "1628",
+          "name": "沙壆",
+          "qp": "shabo",
+          "jp": "sb",
+          "index": 27
+        },
+        {
+          "code": "1629",
+          "name": "燕子湖",
+          "qp": "yanzihu",
+          "jp": "yzh",
+          "index": 28
+        },
+        {
+          "code": "1630",
+          "name": "石井",
+          "qp": "shijing",
+          "jp": "sj",
+          "index": 29
+        },
+        {
+          "code": "1631",
+          "name": "技术大学",
+          "qp": "jishudaxue",
+          "jp": "jsdx",
+          "index": 30
+        },
+        {
+          "code": "1632",
+          "name": "田心",
+          "qp": "tianxin",
+          "jp": "tx",
+          "index": 31
+        }
+      ],
+      "color": "#493d93"
+    },
+    {
+      "id": "20",
+      "name": "20号线",
+      "from": "机场北",
+      "to": "会展城",
+      "stations": [
+        {
+          "code": "2001",
+          "name": "机场北",
+          "qp": "jichangbei",
+          "jp": "jcb",
+          "index": 0
+        },
+        {
+          "code": "2002",
+          "name": "国展南",
+          "qp": "guozhannan",
+          "jp": "gzn",
+          "index": 1
+        },
+        {
+          "code": "2003",
+          "name": "国展",
+          "qp": "guozhan",
+          "jp": "gz",
+          "index": 2
+        },
+        {
+          "code": "2004",
+          "name": "国展北",
+          "qp": "guozhanbei",
+          "jp": "gzb",
+          "index": 3
+        },
+        {
+          "code": "2005",
+          "name": "会展城",
+          "qp": "huizhancheng",
+          "jp": "hzc",
+          "index": 4
+        }
+      ],
+      "color": "#64bbc0"
+    }
+  ],
+  "stations": [
+    {
+      "code": "0101",
+      "name": "罗湖",
+      "qp": "luohu",
+      "jp": "lh",
+      "lines": [
+        "1"
+      ],
+      "facilities": [
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0102",
+      "name": "国贸",
+      "qp": "guomao",
+      "jp": "gm",
+      "lines": [
+        "1"
+      ],
+      "facilities": [
+        "recharge",
+        "ATM"
+      ]
+    },
+    {
+      "code": "0103",
+      "name": "老街",
+      "qp": "laojie",
+      "jp": "lj",
+      "lines": [
+        "1",
+        "3"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0104",
+      "name": "大剧院",
+      "qp": "dajuyuan",
+      "jp": "djy",
+      "lines": [
+        "1",
+        "2",
+        "5"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0105",
+      "name": "科学馆",
+      "qp": "kexueguan",
+      "jp": "kxg",
+      "lines": [
+        "1",
+        "6"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0106",
+      "name": "华强路",
+      "qp": "huaqianglu",
+      "jp": "hql",
+      "lines": [
+        "1"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0107",
+      "name": "岗厦",
+      "qp": "gangxia",
+      "jp": "gx",
+      "lines": [
+        "1",
+        "10"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0108",
+      "name": "会展中心",
+      "qp": "huizhanzhongxin",
+      "jp": "hzzx",
+      "lines": [
+        "1",
+        "4"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0109",
+      "name": "购物公园",
+      "qp": "gouwugongyuan",
+      "jp": "gwgy",
+      "lines": [
+        "1",
+        "3"
+      ],
+      "facilities": [
+        "recharge",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0110",
+      "name": "香蜜湖",
+      "qp": "xiangmihu",
+      "jp": "xmh",
+      "lines": [
+        "1"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0111",
+      "name": "车公庙",
+      "qp": "chegongmiao",
+      "jp": "cgm",
+      "lines": [
+        "1",
+        "7",
+        "9",
+        "11"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0112",
+      "name": "竹子林",
+      "qp": "zhuzilin",
+      "jp": "zzl",
+      "lines": [
+        "1"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0113",
+      "name": "侨城东",
+      "qp": "qiaochengdong",
+      "jp": "qcd",
+      "lines": [
+        "1"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0114",
+      "name": "华侨城",
+      "qp": "huaqiaocheng",
+      "jp": "hqc",
+      "lines": [
+        "1"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0115",
+      "name": "世界之窗",
+      "qp": "shijiezhichuang",
+      "jp": "sjzc",
+      "lines": [
+        "1",
+        "2"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0116",
+      "name": "白石洲",
+      "qp": "baishizhou",
+      "jp": "bsz",
+      "lines": [
+        "1"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0117",
+      "name": "高新园",
+      "qp": "gaoxinyuan",
+      "jp": "gxy",
+      "lines": [
+        "1"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0118",
+      "name": "深大",
+      "qp": "shenda",
+      "jp": "sd",
+      "lines": [
+        "1",
+        "13"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0119",
+      "name": "桃园",
+      "qp": "taoyuan",
+      "jp": "ty",
+      "lines": [
+        "1",
+        "12"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0120",
+      "name": "大新",
+      "qp": "daxin",
+      "jp": "dx",
+      "lines": [
+        "1"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0121",
+      "name": "鲤鱼门",
+      "qp": "liyumen",
+      "jp": "lym",
+      "lines": [
+        "1"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0122",
+      "name": "前海湾",
+      "qp": "qianhaiwan",
+      "jp": "qhw",
+      "lines": [
+        "1",
+        "5",
+        "11"
+      ],
+      "facilities": [
+        "recharge",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0123",
+      "name": "新安",
+      "qp": "xinan",
+      "jp": "xa",
+      "lines": [
+        "1"
+      ],
+      "facilities": [
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0124",
+      "name": "宝安中心",
+      "qp": "baoanzhongxin",
+      "jp": "bazx",
+      "lines": [
+        "1",
+        "5"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0125",
+      "name": "宝体",
+      "qp": "baoti",
+      "jp": "bt",
+      "lines": [
+        "1"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0126",
+      "name": "坪洲",
+      "qp": "pingzhou",
+      "jp": "pz",
+      "lines": [
+        "1"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0127",
+      "name": "西乡",
+      "qp": "xixiang",
+      "jp": "xx",
+      "lines": [
+        "1"
+      ],
+      "facilities": [
+        "recharge",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0128",
+      "name": "固戍",
+      "qp": "gushu",
+      "jp": "gs",
+      "lines": [
+        "1"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0129",
+      "name": "后瑞",
+      "qp": "hourui",
+      "jp": "hr",
+      "lines": [
+        "1"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0130",
+      "name": "机场东",
+      "qp": "jichangdong",
+      "jp": "jcd",
+      "lines": [
+        "1",
+        "12"
+      ],
+      "facilities": [
+        "recharge",
+        "WC",
+        "WZA"
+      ]
+    },
+    {
+      "code": "0201",
+      "name": "赤湾",
+      "qp": "chiwan",
+      "jp": "cw",
+      "lines": [
+        "2",
+        "5"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0202",
+      "name": "蛇口港",
+      "qp": "shekougang",
+      "jp": "skg",
+      "lines": [
+        "2"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0203",
+      "name": "海上世界",
+      "qp": "haishangshijie",
+      "jp": "hssj",
+      "lines": [
+        "2",
+        "12"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0204",
+      "name": "水湾",
+      "qp": "shuiwan",
+      "jp": "sw",
+      "lines": [
+        "2"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0205",
+      "name": "东角头",
+      "qp": "dongjiaotou",
+      "jp": "djt",
+      "lines": [
+        "2"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0206",
+      "name": "湾厦",
+      "qp": "wanxia",
+      "jp": "wx",
+      "lines": [
+        "2"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0207",
+      "name": "海月",
+      "qp": "haiyue",
+      "jp": "hy",
+      "lines": [
+        "2"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0208",
+      "name": "登良",
+      "qp": "dengliang",
+      "jp": "dl",
+      "lines": [
+        "2"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0209",
+      "name": "后海",
+      "qp": "houhai",
+      "jp": "hh",
+      "lines": [
+        "2",
+        "11",
+        "13"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0210",
+      "name": "科苑",
+      "qp": "keyuan",
+      "jp": "ky",
+      "lines": [
+        "2",
+        "13"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0211",
+      "name": "红树湾",
+      "qp": "hongshuwan",
+      "jp": "hsw",
+      "lines": [
+        "2"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0213",
+      "name": "侨城北",
+      "qp": "qiaochengbie",
+      "jp": "qcb",
+      "lines": [
+        "2"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0214",
+      "name": "深康",
+      "qp": "shenkang",
+      "jp": "sk",
+      "lines": [
+        "2"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0215",
+      "name": "安托山",
+      "qp": "antuoshan",
+      "jp": "ats",
+      "lines": [
+        "2",
+        "7"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "WC"
+      ]
+    },
+    {
+      "code": "0216",
+      "name": "侨香",
+      "qp": "qiaoxiang",
+      "jp": "qx",
+      "lines": [
+        "2"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0217",
+      "name": "香蜜",
+      "qp": "xiangmi",
+      "jp": "xm",
+      "lines": [
+        "2"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0218",
+      "name": "香梅北",
+      "qp": "xiangmeibei",
+      "jp": "xmb",
+      "lines": [
+        "2"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0219",
+      "name": "景田",
+      "qp": "jingtian",
+      "jp": "jt",
+      "lines": [
+        "2",
+        "9"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0220",
+      "name": "莲花西",
+      "qp": "lianhuaxi",
+      "jp": "lhx",
+      "lines": [
+        "2"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0221",
+      "name": "福田",
+      "qp": "futian",
+      "jp": "ft",
+      "lines": [
+        "2",
+        "3",
+        "11"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "WC"
+      ]
+    },
+    {
+      "code": "0222",
+      "name": "市民中心",
+      "qp": "shiminzhongxin",
+      "jp": "smzx",
+      "lines": [
+        "2",
+        "4"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0223",
+      "name": "岗厦北",
+      "qp": "gangxiabei",
+      "jp": "gxb",
+      "lines": [
+        "2",
+        "10",
+        "11",
+        "14"
+      ],
+      "facilities": [
+        "WZA",
+        "ATM",
+        "WC",
+        "recharge"
+      ]
+    },
+    {
+      "code": "0224",
+      "name": "华强北",
+      "qp": "huaqiangbei",
+      "jp": "hqb",
+      "lines": [
+        "2",
+        "7"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0225",
+      "name": "燕南",
+      "qp": "yannan",
+      "jp": "yn",
+      "lines": [
+        "2"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0227",
+      "name": "湖贝",
+      "qp": "hubei",
+      "jp": "hb",
+      "lines": [
+        "2",
+        "5"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0228",
+      "name": "黄贝岭",
+      "qp": "huangbeiling",
+      "jp": "hbl",
+      "lines": [
+        "2",
+        "5"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0229",
+      "name": "新秀",
+      "qp": "xinxiu",
+      "jp": "xx",
+      "lines": [
+        "2"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM"
+      ]
+    },
+    {
+      "code": "0230",
+      "name": "莲塘口岸",
+      "qp": "liantangkoan",
+      "jp": "ltka",
+      "lines": [
+        "2"
+      ],
+      "facilities": [
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0231",
+      "name": "仙湖路",
+      "qp": "xianhulu",
+      "jp": "xhl",
+      "lines": [
+        "2"
+      ],
+      "facilities": [
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0232",
+      "name": "莲塘",
+      "qp": "liantang",
+      "jp": "lt",
+      "lines": [
+        "2"
+      ],
+      "facilities": [
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0301",
+      "name": "福保",
+      "qp": "fubao",
+      "jp": "fb",
+      "lines": [
+        "3"
+      ],
+      "facilities": [
+        "WZA",
+        "WC"
+      ]
+    },
+    {
+      "code": "0302",
+      "name": "益田",
+      "qp": "yitian",
+      "jp": "yt",
+      "lines": [
+        "3"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0303",
+      "name": "石厦",
+      "qp": "shixia",
+      "jp": "sx",
+      "lines": [
+        "3",
+        "7"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0306",
+      "name": "少年宫",
+      "qp": "shaoniangong",
+      "jp": "sng",
+      "lines": [
+        "3",
+        "4"
+      ],
+      "facilities": [
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0307",
+      "name": "莲花村",
+      "qp": "lianhuacun",
+      "jp": "lhc",
+      "lines": [
+        "3",
+        "10"
+      ],
+      "facilities": [
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0308",
+      "name": "华新",
+      "qp": "huaxin",
+      "jp": "hx",
+      "lines": [
+        "3",
+        "7"
+      ],
+      "facilities": [
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0309",
+      "name": "通新岭",
+      "qp": "tongxinling",
+      "jp": "txl",
+      "lines": [
+        "3",
+        "6"
+      ],
+      "facilities": [
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0310",
+      "name": "红岭",
+      "qp": "hongling",
+      "jp": "hl",
+      "lines": [
+        "3",
+        "9"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0312",
+      "name": "晒布",
+      "qp": "shaibu",
+      "jp": "sb",
+      "lines": [
+        "3"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0313",
+      "name": "翠竹",
+      "qp": "cuizhu",
+      "jp": "cz",
+      "lines": [
+        "3"
+      ],
+      "facilities": [
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0314",
+      "name": "田贝",
+      "qp": "tianbei",
+      "jp": "tb",
+      "lines": [
+        "3",
+        "7"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0315",
+      "name": "水贝",
+      "qp": "shuibei",
+      "jp": "sb",
+      "lines": [
+        "3"
+      ],
+      "facilities": [
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0316",
+      "name": "草埔",
+      "qp": "caopu",
+      "jp": "cp",
+      "lines": [
+        "3"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM"
+      ]
+    },
+    {
+      "code": "0317",
+      "name": "布吉",
+      "qp": "buji",
+      "jp": "bj",
+      "lines": [
+        "3",
+        "5",
+        "14"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0318",
+      "name": "木棉湾",
+      "qp": "mumianwan",
+      "jp": "mmw",
+      "lines": [
+        "3"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM"
+      ]
+    },
+    {
+      "code": "0319",
+      "name": "大芬",
+      "qp": "dafen",
+      "jp": "df",
+      "lines": [
+        "3"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM"
+      ]
+    },
+    {
+      "code": "0320",
+      "name": "丹竹头",
+      "qp": "danzhutou",
+      "jp": "dzt",
+      "lines": [
+        "3"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM"
+      ]
+    },
+    {
+      "code": "0321",
+      "name": "六约",
+      "qp": "liuyue",
+      "jp": "ly",
+      "lines": [
+        "3"
+      ],
+      "facilities": [
+        "WZA",
+        "ATM"
+      ]
+    },
+    {
+      "code": "0322",
+      "name": "塘坑",
+      "qp": "tangkeng",
+      "jp": "tk",
+      "lines": [
+        "3"
+      ],
+      "facilities": [
+        "ATM"
+      ]
+    },
+    {
+      "code": "0323",
+      "name": "横岗",
+      "qp": "henggang",
+      "jp": "hg",
+      "lines": [
+        "3"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM"
+      ]
+    },
+    {
+      "code": "0324",
+      "name": "永湖",
+      "qp": "yonghu",
+      "jp": "yh",
+      "lines": [
+        "3"
+      ],
+      "facilities": [
+        "WZA",
+        "ATM"
+      ]
+    },
+    {
+      "code": "0325",
+      "name": "荷坳",
+      "qp": "heao",
+      "jp": "ha",
+      "lines": [
+        "3"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM"
+      ]
+    },
+    {
+      "code": "0326",
+      "name": "大运",
+      "qp": "dayun",
+      "jp": "dy",
+      "lines": [
+        "3",
+        "14",
+        "16"
+      ],
+      "facilities": [
+        "WZA",
+        "ATM",
+        "WC",
+        "recharge"
+      ]
+    },
+    {
+      "code": "0327",
+      "name": "爱联",
+      "qp": "ailian",
+      "jp": "al",
+      "lines": [
+        "3"
+      ],
+      "facilities": [
+        "WZA",
+        "ATM"
+      ]
+    },
+    {
+      "code": "0328",
+      "name": "吉祥",
+      "qp": "jixiang",
+      "jp": "jx",
+      "lines": [
+        "3"
+      ],
+      "facilities": [
+        "WZA",
+        "ATM"
+      ]
+    },
+    {
+      "code": "0329",
+      "name": "龙城广场",
+      "qp": "longchengguangchang",
+      "jp": "lcgc",
+      "lines": [
+        "3"
+      ],
+      "facilities": [
+        "recharge",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0330",
+      "name": "南联",
+      "qp": "nanlian",
+      "jp": "nl",
+      "lines": [
+        "3"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM"
+      ]
+    },
+    {
+      "code": "0331",
+      "name": "双龙",
+      "qp": "shuanglong",
+      "jp": "sl",
+      "lines": [
+        "3",
+        "16"
+      ],
+      "facilities": [
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0332",
+      "name": "梨园",
+      "qp": "liyuan",
+      "jp": "ly",
+      "lines": [
+        "3"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM"
+      ]
+    },
+    {
+      "code": "0333",
+      "name": "新生",
+      "qp": "xinsheng",
+      "jp": "xs",
+      "lines": [
+        "3"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM"
+      ]
+    },
+    {
+      "code": "0334",
+      "name": "坪西",
+      "qp": "pingxi",
+      "jp": "px",
+      "lines": [
+        "3"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM"
+      ]
+    },
+    {
+      "code": "0335",
+      "name": "低碳城",
+      "qp": "ditancheng",
+      "jp": "dtc",
+      "lines": [
+        "3"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM"
+      ]
+    },
+    {
+      "code": "0336",
+      "name": "白石塘",
+      "qp": "baishitang",
+      "jp": "bst",
+      "lines": [
+        "3"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM"
+      ]
+    },
+    {
+      "code": "0337",
+      "name": "富坪",
+      "qp": "fuping",
+      "jp": "fp",
+      "lines": [
+        "3"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM"
+      ]
+    },
+    {
+      "code": "0338",
+      "name": "坪地六联",
+      "qp": "pingdiliulian",
+      "jp": "pdll",
+      "lines": [
+        "3"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM"
+      ]
+    },
+    {
+      "code": "0401",
+      "name": "福田口岸",
+      "qp": "futiankouan",
+      "jp": "ftka",
+      "lines": [
+        "4",
+        "10"
+      ],
+      "facilities": [
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0402",
+      "name": "福民",
+      "qp": "fumin",
+      "jp": "fm",
+      "lines": [
+        "4",
+        "7",
+        "10"
+      ],
+      "facilities": [
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0406",
+      "name": "莲花北",
+      "qp": "lianhuabei",
+      "jp": "lhb",
+      "lines": [
+        "4"
+      ],
+      "facilities": [
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0407",
+      "name": "上梅林",
+      "qp": "shangmeilin",
+      "jp": "sml",
+      "lines": [
+        "4",
+        "9"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0408",
+      "name": "民乐",
+      "qp": "minle",
+      "jp": "ml",
+      "lines": [
+        "4"
+      ],
+      "facilities": [
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0409",
+      "name": "白石龙",
+      "qp": "baishilong",
+      "jp": "bsl",
+      "lines": [
+        "4"
+      ],
+      "facilities": [
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0410",
+      "name": "深圳北站",
+      "qp": "shenzhenbei",
+      "jp": "szb",
+      "lines": [
+        "4",
+        "5",
+        "6"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0411",
+      "name": "红山",
+      "qp": "hongshan",
+      "jp": "hs",
+      "lines": [
+        "4",
+        "6"
+      ],
+      "facilities": [
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0412",
+      "name": "上塘",
+      "qp": "shangtang",
+      "jp": "st",
+      "lines": [
+        "4"
+      ],
+      "facilities": [
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0413",
+      "name": "龙胜",
+      "qp": "longsheng",
+      "jp": "ls",
+      "lines": [
+        "4"
+      ],
+      "facilities": [
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0414",
+      "name": "龙华",
+      "qp": "longhua",
+      "jp": "lh",
+      "lines": [
+        "4"
+      ],
+      "facilities": [
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0415",
+      "name": "清湖",
+      "qp": "qinghu",
+      "jp": "qh",
+      "lines": [
+        "4"
+      ],
+      "facilities": [
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0416",
+      "name": "清湖北",
+      "qp": "qinhubei",
+      "jp": "qhb",
+      "lines": [
+        "4"
+      ],
+      "facilities": [
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0417",
+      "name": "竹村",
+      "qp": "zhucun",
+      "jp": "zc",
+      "lines": [
+        "4"
+      ],
+      "facilities": [
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0418",
+      "name": "茜坑",
+      "qp": "xikeng",
+      "jp": "xk",
+      "lines": [
+        "4"
+      ],
+      "facilities": [
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0419",
+      "name": "长湖",
+      "qp": "changhu",
+      "jp": "ch",
+      "lines": [
+        "4"
+      ],
+      "facilities": [
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0420",
+      "name": "观澜",
+      "qp": "guanlan",
+      "jp": "gl",
+      "lines": [
+        "4"
+      ],
+      "facilities": [
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0421",
+      "name": "松元厦",
+      "qp": "songyuanxia",
+      "jp": "syx",
+      "lines": [
+        "4"
+      ],
+      "facilities": [
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0422",
+      "name": "观澜湖",
+      "qp": "guanlanhu",
+      "jp": "glh",
+      "lines": [
+        "4"
+      ],
+      "facilities": [
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0423",
+      "name": "牛湖",
+      "qp": "niuhu",
+      "jp": "nh",
+      "lines": [
+        "4"
+      ],
+      "facilities": [
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0502",
+      "name": "荔湾",
+      "qp": "liwan",
+      "jp": "lw",
+      "lines": [
+        "5"
+      ],
+      "facilities": [
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0503",
+      "name": "铁路公园",
+      "qp": "tielugongyuan",
+      "jp": "tlgy",
+      "lines": [
+        "5"
+      ],
+      "facilities": [
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0504",
+      "name": "妈湾",
+      "qp": "mawan",
+      "jp": "mw",
+      "lines": [
+        "5"
+      ],
+      "facilities": [
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0505",
+      "name": "前湾公园",
+      "qp": "qianwangongyuan",
+      "jp": "qwgy",
+      "lines": [
+        "5"
+      ],
+      "facilities": [
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0506",
+      "name": "前湾",
+      "qp": "qianwan",
+      "jp": "qw",
+      "lines": [
+        "5",
+        "9"
+      ],
+      "facilities": [
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0507",
+      "name": "桂湾",
+      "qp": "guiwan",
+      "jp": "gw",
+      "lines": [
+        "5"
+      ],
+      "facilities": [
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0509",
+      "name": "临海",
+      "qp": "linhai",
+      "jp": "lh",
+      "lines": [
+        "5"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0510",
+      "name": "宝华",
+      "qp": "baohua",
+      "jp": "bh",
+      "lines": [
+        "5"
+      ],
+      "facilities": [
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0512",
+      "name": "翻身",
+      "qp": "fanshen",
+      "jp": "fs",
+      "lines": [
+        "5"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0513",
+      "name": "灵芝",
+      "qp": "lingzhi",
+      "jp": "lz",
+      "lines": [
+        "5",
+        "12"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0514",
+      "name": "洪浪北",
+      "qp": "honglangbei",
+      "jp": "hlb",
+      "lines": [
+        "5"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0515",
+      "name": "兴东",
+      "qp": "xingdong",
+      "jp": "xd",
+      "lines": [
+        "5"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0516",
+      "name": "留仙洞",
+      "qp": "liuxiandong",
+      "jp": "lxd",
+      "lines": [
+        "5",
+        "13"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0517",
+      "name": "西丽",
+      "qp": "xili",
+      "jp": "xl",
+      "lines": [
+        "5",
+        "7"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "WC"
+      ]
+    },
+    {
+      "code": "0518",
+      "name": "大学城",
+      "qp": "daxuecheng",
+      "jp": "dxc",
+      "lines": [
+        "5"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0519",
+      "name": "塘朗",
+      "qp": "tanglang",
+      "jp": "tl",
+      "lines": [
+        "5"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0520",
+      "name": "长岭陂",
+      "qp": "changlingpo",
+      "jp": "clp",
+      "lines": [
+        "5"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0522",
+      "name": "民治",
+      "qp": "minzhi",
+      "jp": "mz",
+      "lines": [
+        "5"
+      ],
+      "facilities": [
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0523",
+      "name": "五和",
+      "qp": "wuhe",
+      "jp": "wh",
+      "lines": [
+        "5",
+        "10"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0524",
+      "name": "坂田",
+      "qp": "bantian",
+      "jp": "bt",
+      "lines": [
+        "5"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0525",
+      "name": "杨美",
+      "qp": "yangmei",
+      "jp": "ym",
+      "lines": [
+        "5"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0526",
+      "name": "上水径",
+      "qp": "shangshuijing",
+      "jp": "ssj",
+      "lines": [
+        "5"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0527",
+      "name": "下水径",
+      "qp": "xiashuijing",
+      "jp": "xsj",
+      "lines": [
+        "5"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0528",
+      "name": "长龙",
+      "qp": "changlong",
+      "jp": "cl",
+      "lines": [
+        "5"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0530",
+      "name": "百鸽笼",
+      "qp": "baigelong",
+      "jp": "bgl",
+      "lines": [
+        "5"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0531",
+      "name": "布心",
+      "qp": "buxin",
+      "jp": "bx",
+      "lines": [
+        "5"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0532",
+      "name": "太安",
+      "qp": "taian",
+      "jp": "ta",
+      "lines": [
+        "5",
+        "7"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0533",
+      "name": "怡景",
+      "qp": "yijing",
+      "jp": "yj",
+      "lines": [
+        "5"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0536",
+      "name": "东门",
+      "qp": "dongmen",
+      "jp": "dm",
+      "lines": [
+        "5"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0603",
+      "name": "体育中心",
+      "qp": "tiyuzhongxin",
+      "jp": "tyzx",
+      "lines": [
+        "6"
+      ],
+      "facilities": [
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0604",
+      "name": "八卦岭",
+      "qp": "bagualing",
+      "jp": "bgl",
+      "lines": [
+        "6",
+        "7"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0605",
+      "name": "银湖",
+      "qp": "yinhu",
+      "jp": "yh",
+      "lines": [
+        "6",
+        "9"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0606",
+      "name": "翰岭",
+      "qp": "hanling",
+      "jp": "hl",
+      "lines": [
+        "6"
+      ],
+      "facilities": [
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0607",
+      "name": "梅林关",
+      "qp": "meilinguan",
+      "jp": "mlg",
+      "lines": [
+        "6"
+      ],
+      "facilities": [
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0610",
+      "name": "上芬",
+      "qp": "shangfen",
+      "jp": "sf",
+      "lines": [
+        "6"
+      ],
+      "facilities": [
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0611",
+      "name": "元芬",
+      "qp": "yuanfen",
+      "jp": "yf",
+      "lines": [
+        "6"
+      ],
+      "facilities": [
+        "recharge",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0612",
+      "name": "阳台山东",
+      "qp": "yangtaishangdong",
+      "jp": "ytsd",
+      "lines": [
+        "6"
+      ],
+      "facilities": [
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0613",
+      "name": "官田",
+      "qp": "guantian",
+      "jp": "gt",
+      "lines": [
+        "6"
+      ],
+      "facilities": [
+        "recharge",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0614",
+      "name": "上屋",
+      "qp": "shangwu",
+      "jp": "sw",
+      "lines": [
+        "6",
+        "13"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0615",
+      "name": "长圳",
+      "qp": "changzhen",
+      "jp": "cz",
+      "lines": [
+        "6"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0616",
+      "name": "凤凰城",
+      "qp": "fenghuangcheng",
+      "jp": "fhc",
+      "lines": [
+        "6",
+        "13"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0617",
+      "name": "光明大街",
+      "qp": "guangmingdajie",
+      "jp": "gmdj",
+      "lines": [
+        "6"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0618",
+      "name": "光明",
+      "qp": "guangming",
+      "jp": "gm",
+      "lines": [
+        "6",
+        "66"
+      ],
+      "facilities": [
+        "WZA",
+        "ATM",
+        "WC",
+        "recharge"
+      ]
+    },
+    {
+      "code": "0619",
+      "name": "科学公园",
+      "qp": "kexuegongyuan",
+      "jp": "kxgy",
+      "lines": [
+        "6"
+      ],
+      "facilities": [
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0620",
+      "name": "楼村",
+      "qp": "loucun",
+      "jp": "lc",
+      "lines": [
+        "6"
+      ],
+      "facilities": [
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0621",
+      "name": "红花山",
+      "qp": "honghuashan",
+      "jp": "hhs",
+      "lines": [
+        "6"
+      ],
+      "facilities": [
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0622",
+      "name": "公明广场",
+      "qp": "gongmingguangchang",
+      "jp": "gmgc",
+      "lines": [
+        "6",
+        "13"
+      ],
+      "facilities": [
+        "WZA",
+        "WC",
+        "recharge"
+      ]
+    },
+    {
+      "code": "0623",
+      "name": "合水口",
+      "qp": "heshuikou",
+      "jp": "hsk",
+      "lines": [
+        "6"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0624",
+      "name": "薯田埔",
+      "qp": "shutianpu",
+      "jp": "stp",
+      "lines": [
+        "6"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0625",
+      "name": "松岗公园",
+      "qp": "songganggongyuan",
+      "jp": "sggy",
+      "lines": [
+        "6"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0626",
+      "name": "溪头",
+      "qp": "xitou",
+      "jp": "xt",
+      "lines": [
+        "6"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0627",
+      "name": "松岗",
+      "qp": "songgang",
+      "jp": "sg",
+      "lines": [
+        "6",
+        "11",
+        "12"
+      ],
+      "facilities": [
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "6601",
+      "name": "光明城",
+      "qp": "guangmingcheng",
+      "jp": "gmc",
+      "lines": [
+        "66",
+        "13"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "WC"
+      ]
+    },
+    {
+      "code": "6602",
+      "name": "虹桥公园",
+      "qp": "hongqiaogongyuan",
+      "jp": "hqgy",
+      "lines": [
+        "66"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "WC"
+      ]
+    },
+    {
+      "code": "6603",
+      "name": "碧眼",
+      "qp": "biyan",
+      "jp": "by",
+      "lines": [
+        "66"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "WC"
+      ]
+    },
+    {
+      "code": "6605",
+      "name": "圳美",
+      "qp": "shenmei",
+      "jp": "sm",
+      "lines": [
+        "66"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "WC"
+      ]
+    },
+    {
+      "code": "6606",
+      "name": "中大",
+      "qp": "zhongda",
+      "jp": "zd",
+      "lines": [
+        "66"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "WC"
+      ]
+    },
+    {
+      "code": "6607",
+      "name": "深理工",
+      "qp": "shenligong",
+      "jp": "slg",
+      "lines": [
+        "66"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "WC"
+      ]
+    },
+    {
+      "code": "0701",
+      "name": "深大丽湖",
+      "qp": "shendalihu",
+      "jp": "sdlh",
+      "lines": [
+        "7"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0702",
+      "name": "北大",
+      "qp": "beida",
+      "jp": "bd",
+      "lines": [
+        "7"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0703",
+      "name": "西丽湖",
+      "qp": "xilihu",
+      "jp": "xlh",
+      "lines": [
+        "7"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0705",
+      "name": "茶光",
+      "qp": "chaguang",
+      "jp": "cg",
+      "lines": [
+        "7"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0706",
+      "name": "珠光",
+      "qp": "zhuguang",
+      "jp": "zg",
+      "lines": [
+        "7"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0707",
+      "name": "龙井",
+      "qp": "longjing",
+      "jp": "lj",
+      "lines": [
+        "7"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0708",
+      "name": "桃源村",
+      "qp": "taoyuancun",
+      "jp": "tyc",
+      "lines": [
+        "7"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0709",
+      "name": "深云",
+      "qp": "shenyun",
+      "jp": "sy",
+      "lines": [
+        "7"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0711",
+      "name": "农林",
+      "qp": "nonglin",
+      "jp": "nl",
+      "lines": [
+        "7"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0713",
+      "name": "上沙",
+      "qp": "shangsha",
+      "jp": "ss",
+      "lines": [
+        "7"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0714",
+      "name": "沙尾",
+      "qp": "shawei",
+      "jp": "sw",
+      "lines": [
+        "7"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0716",
+      "name": "皇岗村",
+      "qp": "huanggangcun",
+      "jp": "hgc",
+      "lines": [
+        "7"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0718",
+      "name": "皇岗口岸",
+      "qp": "huanggangkouan",
+      "jp": "hgka",
+      "lines": [
+        "7"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM"
+      ]
+    },
+    {
+      "code": "0719",
+      "name": "赤尾",
+      "qp": "chiwei",
+      "jp": "cw",
+      "lines": [
+        "7"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0720",
+      "name": "华强南",
+      "qp": "huaqiangnan",
+      "jp": "hqn",
+      "lines": [
+        "7",
+        "11"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0723",
+      "name": "黄木岗",
+      "qp": "huangmugang",
+      "jp": "hmg",
+      "lines": [
+        "7",
+        "14"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0725",
+      "name": "红岭北",
+      "qp": "honglingbei",
+      "jp": "hlb",
+      "lines": [
+        "7",
+        "9"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0726",
+      "name": "笋岗",
+      "qp": "sungang",
+      "jp": "sg",
+      "lines": [
+        "7"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0727",
+      "name": "洪湖",
+      "qp": "honghu",
+      "jp": "hh",
+      "lines": [
+        "7"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0802",
+      "name": "梧桐山南",
+      "qp": "wutongshannan",
+      "jp": "wtsn",
+      "lines": [
+        "8"
+      ],
+      "facilities": [
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0803",
+      "name": "沙头角",
+      "qp": "shatoujiao",
+      "jp": "stj",
+      "lines": [
+        "8"
+      ],
+      "facilities": [
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0804",
+      "name": "海山",
+      "qp": "haishan",
+      "jp": "hs",
+      "lines": [
+        "8"
+      ],
+      "facilities": [
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0805",
+      "name": "盐田港西",
+      "qp": "yantiangangxi",
+      "jp": "ytgx",
+      "lines": [
+        "8"
+      ],
+      "facilities": [
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0806",
+      "name": "深外高中",
+      "qp": "shenwaigaozhong",
+      "jp": "swgz",
+      "lines": [
+        "8"
+      ],
+      "facilities": [
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0807",
+      "name": "盐田路",
+      "qp": "yantianlu",
+      "jp": "ytl",
+      "lines": [
+        "8"
+      ],
+      "facilities": [
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0808",
+      "name": "鸿安围",
+      "qp": "honganwei",
+      "jp": "haw",
+      "lines": [
+        "8"
+      ],
+      "facilities": [
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0809",
+      "name": "盐田墟",
+      "qp": "yantianxu",
+      "jp": "ytx",
+      "lines": [
+        "8"
+      ],
+      "facilities": [
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0810",
+      "name": "大梅沙",
+      "qp": "dameisha",
+      "jp": "dms",
+      "lines": [
+        "8"
+      ],
+      "facilities": [
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0811",
+      "name": "小梅沙",
+      "qp": "xiaomeisha",
+      "jp": "xms",
+      "lines": [
+        "8"
+      ],
+      "facilities": [
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0812",
+      "name": "溪涌",
+      "qp": "xichong",
+      "jp": "xc",
+      "lines": [
+        "8"
+      ],
+      "facilities": [
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0902",
+      "name": "梦海",
+      "qp": "menghai",
+      "jp": "mh",
+      "lines": [
+        "9"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0903",
+      "name": "怡海",
+      "qp": "yihai",
+      "jp": "yh",
+      "lines": [
+        "9"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0904",
+      "name": "荔林",
+      "qp": "lilin",
+      "jp": "ll",
+      "lines": [
+        "9"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0905",
+      "name": "南油西",
+      "qp": "nanyouxi",
+      "jp": "nyx",
+      "lines": [
+        "9"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0906",
+      "name": "南油",
+      "qp": "nanyou",
+      "jp": "ny",
+      "lines": [
+        "9",
+        "12"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0907",
+      "name": "南山书城",
+      "qp": "nanshanshucheng",
+      "jp": "nssc",
+      "lines": [
+        "9"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0908",
+      "name": "深大南",
+      "qp": "shendanan",
+      "jp": "sdn",
+      "lines": [
+        "9"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0909",
+      "name": "粤海门",
+      "qp": "yuehaimen",
+      "jp": "yhm",
+      "lines": [
+        "9",
+        "13"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0910",
+      "name": "高新南",
+      "qp": "gaoxinnan",
+      "jp": "gxn",
+      "lines": [
+        "9"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0911",
+      "name": "红树湾南",
+      "qp": "hongshuwannan",
+      "jp": "hswn",
+      "lines": [
+        "9",
+        "11"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0912",
+      "name": "深湾",
+      "qp": "shenwan",
+      "jp": "sw",
+      "lines": [
+        "9"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0913",
+      "name": "深圳湾公园",
+      "qp": "shenzhenwangongyuan",
+      "jp": "szwgy",
+      "lines": [
+        "9"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0914",
+      "name": "下沙",
+      "qp": "xiasha",
+      "jp": "xs",
+      "lines": [
+        "9"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0916",
+      "name": "香梅",
+      "qp": "xiangmei",
+      "jp": "xm",
+      "lines": [
+        "9"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0918",
+      "name": "梅景",
+      "qp": "meijing",
+      "jp": "mj",
+      "lines": [
+        "9"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0919",
+      "name": "下梅林",
+      "qp": "xiameilin",
+      "jp": "xml",
+      "lines": [
+        "9"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0920",
+      "name": "梅村",
+      "qp": "meicun",
+      "jp": "mc",
+      "lines": [
+        "9"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0922",
+      "name": "孖岭",
+      "qp": "maling",
+      "jp": "ml",
+      "lines": [
+        "9",
+        "10"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0924",
+      "name": "泥岗",
+      "qp": "nigang",
+      "jp": "ng",
+      "lines": [
+        "9"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0926",
+      "name": "园岭",
+      "qp": "yuanling",
+      "jp": "yl",
+      "lines": [
+        "9"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0928",
+      "name": "红岭南",
+      "qp": "honglingnan",
+      "jp": "hln",
+      "lines": [
+        "9",
+        "11"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0929",
+      "name": "鹿丹村",
+      "qp": "ludancun",
+      "jp": "ldc",
+      "lines": [
+        "9"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0930",
+      "name": "人民南",
+      "qp": "renminnan",
+      "jp": "rmn",
+      "lines": [
+        "9"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0931",
+      "name": "向西村",
+      "qp": "xiangxicun",
+      "jp": "xxc",
+      "lines": [
+        "9"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "0932",
+      "name": "文锦",
+      "qp": "wenjin",
+      "jp": "wj",
+      "lines": [
+        "9"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "WC"
+      ]
+    },
+    {
+      "code": "1006",
+      "name": "冬瓜岭",
+      "qp": "donggualing",
+      "jp": "dgl",
+      "lines": [
+        "10"
+      ],
+      "facilities": [
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "1008",
+      "name": "雅宝",
+      "qp": "yabao",
+      "jp": "yb",
+      "lines": [
+        "10"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "WC"
+      ]
+    },
+    {
+      "code": "1009",
+      "name": "南坑",
+      "qp": "nankeng",
+      "jp": "nk",
+      "lines": [
+        "10"
+      ],
+      "facilities": [
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "1010",
+      "name": "光雅园",
+      "qp": "guangyayuan",
+      "jp": "gyy",
+      "lines": [
+        "10"
+      ],
+      "facilities": [
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "1012",
+      "name": "坂田北",
+      "qp": "bantianbei",
+      "jp": "btb",
+      "lines": [
+        "10"
+      ],
+      "facilities": [
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "1013",
+      "name": "贝尔路",
+      "qp": "beierlu",
+      "jp": "bel",
+      "lines": [
+        "10"
+      ],
+      "facilities": [
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "1014",
+      "name": "华为",
+      "qp": "huawei",
+      "jp": "hw",
+      "lines": [
+        "10"
+      ],
+      "facilities": [
+        "WZA",
+        "WC"
+      ]
+    },
+    {
+      "code": "1015",
+      "name": "岗头",
+      "qp": "gangtou",
+      "jp": "gt",
+      "lines": [
+        "10"
+      ],
+      "facilities": [
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "1016",
+      "name": "雪象",
+      "qp": "xuexiang",
+      "jp": "xx",
+      "lines": [
+        "10"
+      ],
+      "facilities": [
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "1017",
+      "name": "甘坑",
+      "qp": "gankeng",
+      "jp": "gk",
+      "lines": [
+        "10"
+      ],
+      "facilities": [
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "1018",
+      "name": "凉帽山",
+      "qp": "liangmaoshan",
+      "jp": "lms",
+      "lines": [
+        "10"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "1019",
+      "name": "上李朗",
+      "qp": "shanglilang",
+      "jp": "sll",
+      "lines": [
+        "10"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "1020",
+      "name": "木古",
+      "qp": "mugu",
+      "jp": "mg",
+      "lines": [
+        "10"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "1021",
+      "name": "华南城",
+      "qp": "huanancheng",
+      "jp": "hnc",
+      "lines": [
+        "10"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "1022",
+      "name": "禾花",
+      "qp": "hehua",
+      "jp": "hh",
+      "lines": [
+        "10"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "1023",
+      "name": "平湖",
+      "qp": "pinghu",
+      "jp": "ph",
+      "lines": [
+        "10"
+      ],
+      "facilities": [
+        "WZA",
+        "WC"
+      ]
+    },
+    {
+      "code": "1024",
+      "name": "双拥街",
+      "qp": "shuangyongjie",
+      "jp": "syj",
+      "lines": [
+        "10"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "1103",
+      "name": "福星",
+      "qp": "fuxing",
+      "jp": "fx",
+      "lines": [
+        "11"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "WC"
+      ]
+    },
+    {
+      "code": "1109",
+      "name": "南山",
+      "qp": "nanshan",
+      "jp": "ns",
+      "lines": [
+        "11",
+        "12"
+      ],
+      "facilities": [
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "1111",
+      "name": "宝安",
+      "qp": "baoan",
+      "jp": "ba",
+      "lines": [
+        "11"
+      ],
+      "facilities": [
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "1112",
+      "name": "碧海湾",
+      "qp": "bihaiwan",
+      "jp": "bhw",
+      "lines": [
+        "11"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "1113",
+      "name": "机场",
+      "qp": "jichang",
+      "jp": "jc",
+      "lines": [
+        "11"
+      ],
+      "facilities": [
+        "WZA",
+        "WC"
+      ]
+    },
+    {
+      "code": "1114",
+      "name": "机场北",
+      "qp": "jichangbei",
+      "jp": "jcb",
+      "lines": [
+        "11",
+        "20"
+      ],
+      "facilities": [
+        "WZA",
+        "ATM",
+        "WC",
+        "recharge"
+      ]
+    },
+    {
+      "code": "1115",
+      "name": "福永",
+      "qp": "fuyong",
+      "jp": "fy",
+      "lines": [
+        "11",
+        "12"
+      ],
+      "facilities": [
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "1116",
+      "name": "桥头",
+      "qp": "qiaotou",
+      "jp": "qt",
+      "lines": [
+        "11"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "1117",
+      "name": "塘尾",
+      "qp": "tangwei",
+      "jp": "tw",
+      "lines": [
+        "11"
+      ],
+      "facilities": [
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "1118",
+      "name": "马安山",
+      "qp": "maanshan",
+      "jp": "mas",
+      "lines": [
+        "11"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "1119",
+      "name": "沙井",
+      "qp": "shajing",
+      "jp": "sj",
+      "lines": [
+        "11"
+      ],
+      "facilities": [
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "1120",
+      "name": "后亭",
+      "qp": "houting",
+      "jp": "ht",
+      "lines": [
+        "11"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "1122",
+      "name": "碧头",
+      "qp": "bitou",
+      "jp": "bt",
+      "lines": [
+        "11"
+      ],
+      "facilities": [
+        "WZA",
+        "ATM",
+        "WC"
+      ]
+    },
+    {
+      "code": "1201",
+      "name": "左炮台东",
+      "qp": "zuopaotaidong",
+      "jp": "zptd",
+      "lines": [
+        "12"
+      ],
+      "facilities": [
+        "WZA",
+        "WC"
+      ]
+    },
+    {
+      "code": "1202",
+      "name": "太子湾",
+      "qp": "taiziwan",
+      "jp": "tzw",
+      "lines": [
+        "12"
+      ],
+      "facilities": [
+        "WZA",
+        "WC"
+      ]
+    },
+    {
+      "code": "1204",
+      "name": "花果山",
+      "qp": "huaguoshan",
+      "jp": "hgs",
+      "lines": [
+        "12"
+      ],
+      "facilities": [
+        "WZA",
+        "WC"
+      ]
+    },
+    {
+      "code": "1205",
+      "name": "四海",
+      "qp": "sihai",
+      "jp": "sh",
+      "lines": [
+        "12"
+      ],
+      "facilities": [
+        "WZA",
+        "WC"
+      ]
+    },
+    {
+      "code": "1207",
+      "name": "南光",
+      "qp": "nanguang",
+      "jp": "ng",
+      "lines": [
+        "12"
+      ],
+      "facilities": [
+        "WZA",
+        "WC"
+      ]
+    },
+    {
+      "code": "1210",
+      "name": "南头古城",
+      "qp": "nantougucheng",
+      "jp": "ntgc",
+      "lines": [
+        "12"
+      ],
+      "facilities": [
+        "WZA",
+        "WC"
+      ]
+    },
+    {
+      "code": "1211",
+      "name": "中山公园",
+      "qp": "zhongshangongyuan",
+      "jp": "zsgy",
+      "lines": [
+        "12"
+      ],
+      "facilities": [
+        "WZA",
+        "WC"
+      ]
+    },
+    {
+      "code": "1212",
+      "name": "同乐南",
+      "qp": "tonglenan",
+      "jp": "tln",
+      "lines": [
+        "12"
+      ],
+      "facilities": [
+        "WZA",
+        "WC"
+      ]
+    },
+    {
+      "code": "1213",
+      "name": "新安公园",
+      "qp": "xinangongyuan",
+      "jp": "xagy",
+      "lines": [
+        "12"
+      ],
+      "facilities": [
+        "WZA",
+        "WC"
+      ]
+    },
+    {
+      "code": "1215",
+      "name": "上川",
+      "qp": "shangchuan",
+      "jp": "sc",
+      "lines": [
+        "12"
+      ],
+      "facilities": [
+        "WZA",
+        "WC"
+      ]
+    },
+    {
+      "code": "1216",
+      "name": "流塘",
+      "qp": "liutang",
+      "jp": "lt",
+      "lines": [
+        "12"
+      ],
+      "facilities": [
+        "WZA",
+        "WC"
+      ]
+    },
+    {
+      "code": "1217",
+      "name": "宝安客运站",
+      "qp": "baoankeyunzhan",
+      "jp": "bakyz",
+      "lines": [
+        "12"
+      ],
+      "facilities": [
+        "WZA",
+        "WC"
+      ]
+    },
+    {
+      "code": "1218",
+      "name": "宝田一路",
+      "qp": "baotianyilu",
+      "jp": "btyl",
+      "lines": [
+        "12"
+      ],
+      "facilities": [
+        "WZA",
+        "WC"
+      ]
+    },
+    {
+      "code": "1219",
+      "name": "平峦山",
+      "qp": "pingluanshan",
+      "jp": "pls",
+      "lines": [
+        "12"
+      ],
+      "facilities": [
+        "WZA",
+        "WC"
+      ]
+    },
+    {
+      "code": "1220",
+      "name": "西乡桃源",
+      "qp": "xixiangtaoyuan",
+      "jp": "xxty",
+      "lines": [
+        "12"
+      ],
+      "facilities": [
+        "WZA",
+        "WC"
+      ]
+    },
+    {
+      "code": "1221",
+      "name": "钟屋南",
+      "qp": "zhongwunan",
+      "jp": "zwn",
+      "lines": [
+        "12"
+      ],
+      "facilities": [
+        "WZA",
+        "WC"
+      ]
+    },
+    {
+      "code": "1222",
+      "name": "黄田",
+      "qp": "huangtian",
+      "jp": "ht",
+      "lines": [
+        "12"
+      ],
+      "facilities": [
+        "WZA",
+        "WC"
+      ]
+    },
+    {
+      "code": "1223",
+      "name": "兴围",
+      "qp": "xingwei",
+      "jp": "xw",
+      "lines": [
+        "12"
+      ],
+      "facilities": [
+        "WZA",
+        "WC"
+      ]
+    },
+    {
+      "code": "1225",
+      "name": "福围",
+      "qp": "fuwei",
+      "jp": "fw",
+      "lines": [
+        "12"
+      ],
+      "facilities": [
+        "WZA",
+        "WC"
+      ]
+    },
+    {
+      "code": "1226",
+      "name": "怀德",
+      "qp": "huaide",
+      "jp": "hd",
+      "lines": [
+        "12"
+      ],
+      "facilities": [
+        "WZA",
+        "WC"
+      ]
+    },
+    {
+      "code": "1228",
+      "name": "桥头西",
+      "qp": "qiaotouxi",
+      "jp": "qtx",
+      "lines": [
+        "12"
+      ],
+      "facilities": [
+        "WZA",
+        "WC"
+      ]
+    },
+    {
+      "code": "1229",
+      "name": "福海西",
+      "qp": "fuhaixi",
+      "jp": "fhx",
+      "lines": [
+        "12"
+      ],
+      "facilities": [
+        "WZA",
+        "WC"
+      ]
+    },
+    {
+      "code": "1230",
+      "name": "国展",
+      "qp": "guozhan",
+      "jp": "gz",
+      "lines": [
+        "12",
+        "20"
+      ],
+      "facilities": [
+        "WZA",
+        "WC",
+        "recharge"
+      ]
+    },
+    {
+      "code": "1231",
+      "name": "国展北",
+      "qp": "guozhanbei",
+      "jp": "gzb",
+      "lines": [
+        "12",
+        "20"
+      ],
+      "facilities": [
+        "WZA",
+        "WC",
+        "recharge"
+      ]
+    },
+    {
+      "code": "1232",
+      "name": "海上田园南",
+      "qp": "haishangtianyuannan",
+      "jp": "hstyn",
+      "lines": [
+        "12"
+      ],
+      "facilities": [
+        "WZA",
+        "WC"
+      ]
+    },
+    {
+      "code": "1233",
+      "name": "海上田园东",
+      "qp": "haishangtianyuandong",
+      "jp": "hstyd",
+      "lines": [
+        "12"
+      ],
+      "facilities": [
+        "WZA",
+        "WC"
+      ]
+    },
+    {
+      "code": "1234",
+      "name": "蚝乡",
+      "qp": "haoxiang",
+      "jp": "hx",
+      "lines": [
+        "12"
+      ],
+      "facilities": [
+        "WZA",
+        "WC"
+      ]
+    },
+    {
+      "code": "1235",
+      "name": "沙蚝",
+      "qp": "shahao",
+      "jp": "sh",
+      "lines": [
+        "12"
+      ],
+      "facilities": [
+        "WZA",
+        "WC"
+      ]
+    },
+    {
+      "code": "1236",
+      "name": "沙井古墟",
+      "qp": "shajingguxu",
+      "jp": "sjgx",
+      "lines": [
+        "12"
+      ],
+      "facilities": [
+        "WZA",
+        "WC"
+      ]
+    },
+    {
+      "code": "1237",
+      "name": "步涌",
+      "qp": "buyong",
+      "jp": "by",
+      "lines": [
+        "12"
+      ],
+      "facilities": [
+        "WZA",
+        "WC"
+      ]
+    },
+    {
+      "code": "1238",
+      "name": "朗下",
+      "qp": "langxia",
+      "jp": "lx",
+      "lines": [
+        "12"
+      ],
+      "facilities": [
+        "WZA",
+        "WC"
+      ]
+    },
+    {
+      "code": "1301",
+      "name": "深圳湾口岸",
+      "qp": "shenzhenwankouan",
+      "jp": "szwka",
+      "lines": [
+        "13"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "WC"
+      ]
+    },
+    {
+      "code": "1302",
+      "name": "人才公园",
+      "qp": "rencaigongyuan",
+      "jp": "rcgy",
+      "lines": [
+        "13"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "WC"
+      ]
+    },
+    {
+      "code": "1307",
+      "name": "高新中",
+      "qp": "gaoxinzhong",
+      "jp": "gxz",
+      "lines": [
+        "13"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "WC"
+      ]
+    },
+    {
+      "code": "1308",
+      "name": "高新北",
+      "qp": "gaoxinbei",
+      "jp": "gxb",
+      "lines": [
+        "13"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "WC"
+      ]
+    },
+    {
+      "code": "1309",
+      "name": "石鼓",
+      "qp": "shigu",
+      "jp": "sg",
+      "lines": [
+        "13"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "WC"
+      ]
+    },
+    {
+      "code": "1311",
+      "name": "百旺",
+      "qp": "baiwanggangda",
+      "jp": "bwgd",
+      "lines": [
+        "13"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "WC"
+      ]
+    },
+    {
+      "code": "1312",
+      "name": "应人石",
+      "qp": "yingrenshi",
+      "jp": "yrs",
+      "lines": [
+        "13"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "WC"
+      ]
+    },
+    {
+      "code": "1313",
+      "name": "罗租",
+      "qp": "luozu",
+      "jp": "lz",
+      "lines": [
+        "13"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "WC"
+      ]
+    },
+    {
+      "code": "1314",
+      "name": "石岩",
+      "qp": "shiyan",
+      "jp": "sy",
+      "lines": [
+        "13"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "WC"
+      ]
+    },
+    {
+      "code": "1316",
+      "name": "红坳公园",
+      "qp": "hongaogongyuan",
+      "jp": "hagy",
+      "lines": [
+        "13"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "WC"
+      ]
+    },
+    {
+      "code": "1318",
+      "name": "德雅路",
+      "qp": "deyalu",
+      "jp": "dyl",
+      "lines": [
+        "13"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "WC"
+      ]
+    },
+    {
+      "code": "1320",
+      "name": "月亮路",
+      "qp": "yuelianglu",
+      "jp": "yll",
+      "lines": [
+        "13"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "WC"
+      ]
+    },
+    {
+      "code": "1321",
+      "name": "将围",
+      "qp": "jiangwei",
+      "jp": "jw",
+      "lines": [
+        "13"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "WC"
+      ]
+    },
+    {
+      "code": "1322",
+      "name": "新庄",
+      "qp": "xinzhuang",
+      "jp": "xz",
+      "lines": [
+        "13"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "WC"
+      ]
+    },
+    {
+      "code": "1324",
+      "name": "上村",
+      "qp": "shangcun",
+      "jp": "sc",
+      "lines": [
+        "13"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "WC"
+      ]
+    },
+    {
+      "code": "1325",
+      "name": "下村",
+      "qp": "xiacun",
+      "jp": "xc",
+      "lines": [
+        "13"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "WC"
+      ]
+    },
+    {
+      "code": "1326",
+      "name": "李松蓢",
+      "qp": "lisonglang",
+      "jp": "lsl",
+      "lines": [
+        "13"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "WC"
+      ]
+    },
+    {
+      "code": "1403",
+      "name": "罗湖北",
+      "qp": "luohubei",
+      "jp": "lhb",
+      "lines": [
+        "14"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "WC"
+      ]
+    },
+    {
+      "code": "1405",
+      "name": "石芽岭",
+      "qp": "shiyaling",
+      "jp": "syl",
+      "lines": [
+        "14"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "WC"
+      ]
+    },
+    {
+      "code": "1406",
+      "name": "六约北",
+      "qp": "liuyuebei",
+      "jp": "lyb",
+      "lines": [
+        "14"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "WC"
+      ]
+    },
+    {
+      "code": "1407",
+      "name": "四联",
+      "qp": "silian",
+      "jp": "sl",
+      "lines": [
+        "14"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "WC"
+      ]
+    },
+    {
+      "code": "1408",
+      "name": "坳背",
+      "qp": "aobei",
+      "jp": "ab",
+      "lines": [
+        "14"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "WC"
+      ]
+    },
+    {
+      "code": "1410",
+      "name": "嶂背",
+      "qp": "zhangbei",
+      "jp": "zb",
+      "lines": [
+        "14"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "WC"
+      ]
+    },
+    {
+      "code": "1411",
+      "name": "南约",
+      "qp": "nanyue",
+      "jp": "ny",
+      "lines": [
+        "14"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "WC"
+      ]
+    },
+    {
+      "code": "1412",
+      "name": "宝龙",
+      "qp": "baolong",
+      "jp": "bl",
+      "lines": [
+        "14"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "WC"
+      ]
+    },
+    {
+      "code": "1413",
+      "name": "锦龙",
+      "qp": "jinlong",
+      "jp": "jl",
+      "lines": [
+        "14"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "WC"
+      ]
+    },
+    {
+      "code": "1414",
+      "name": "坪山围",
+      "qp": "pingshanwei",
+      "jp": "psw",
+      "lines": [
+        "14",
+        "16"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "WC"
+      ]
+    },
+    {
+      "code": "1415",
+      "name": "坪山广场",
+      "qp": "坪山广场",
+      "jp": "psgc",
+      "lines": [
+        "14"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "WC"
+      ]
+    },
+    {
+      "code": "1416",
+      "name": "坪山中心",
+      "qp": "pingshanzhongxin",
+      "jp": "pszx",
+      "lines": [
+        "14"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "WC"
+      ]
+    },
+    {
+      "code": "1417",
+      "name": "坑梓",
+      "qp": "kengzi",
+      "jp": "kz",
+      "lines": [
+        "14"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "WC"
+      ]
+    },
+    {
+      "code": "1418",
+      "name": "沙田",
+      "qp": "shatian",
+      "jp": "st",
+      "lines": [
+        "14"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "WC"
+      ]
+    },
+    {
+      "code": "1601",
+      "name": "园山西坑",
+      "qp": "yuanshanxikeng",
+      "jp": "ysxk",
+      "lines": [
+        "16"
+      ],
+      "facilities": [
+        "WC"
+      ]
+    },
+    {
+      "code": "1602",
+      "name": "安良",
+      "qp": "anliang",
+      "jp": "al",
+      "lines": [
+        "16"
+      ],
+      "facilities": [
+        "WC"
+      ]
+    },
+    {
+      "code": "1603",
+      "name": "福坑",
+      "qp": "fukeng",
+      "jp": "fk",
+      "lines": [
+        "16"
+      ],
+      "facilities": [
+        "WC"
+      ]
+    },
+    {
+      "code": "1604",
+      "name": "大康",
+      "qp": "dakang",
+      "jp": "dk",
+      "lines": [
+        "16"
+      ],
+      "facilities": [
+        "WC"
+      ]
+    },
+    {
+      "code": "1605",
+      "name": "园山",
+      "qp": "yuanshan",
+      "jp": "ys",
+      "lines": [
+        "16"
+      ],
+      "facilities": [
+        "WC"
+      ]
+    },
+    {
+      "code": "1606",
+      "name": "大安",
+      "qp": "daan",
+      "jp": "da",
+      "lines": [
+        "16"
+      ],
+      "facilities": [
+        "WC"
+      ]
+    },
+    {
+      "code": "1607",
+      "name": "吉溪",
+      "qp": "jixi",
+      "jp": "jx",
+      "lines": [
+        "16"
+      ],
+      "facilities": [
+        "WC"
+      ]
+    },
+    {
+      "code": "1608",
+      "name": "金源",
+      "qp": "jinyuan",
+      "jp": "jy",
+      "lines": [
+        "16"
+      ],
+      "facilities": [
+        "WC"
+      ]
+    },
+    {
+      "code": "1610",
+      "name": "大运中心",
+      "qp": "dayunzhongxin",
+      "jp": "dyzx",
+      "lines": [
+        "16"
+      ],
+      "facilities": [
+        "WC"
+      ]
+    },
+    {
+      "code": "1611",
+      "name": "龙城公园",
+      "qp": "longchenggongyuan",
+      "jp": "lcgy",
+      "lines": [
+        "16"
+      ],
+      "facilities": [
+        "WC"
+      ]
+    },
+    {
+      "code": "1612",
+      "name": "黄阁坑",
+      "qp": "huanggekeng",
+      "jp": "hgk",
+      "lines": [
+        "16"
+      ],
+      "facilities": [
+        "WC"
+      ]
+    },
+    {
+      "code": "1613",
+      "name": "愉园",
+      "qp": "yuyuan",
+      "jp": "yy",
+      "lines": [
+        "16"
+      ],
+      "facilities": [
+        "WC"
+      ]
+    },
+    {
+      "code": "1614",
+      "name": "回龙埔",
+      "qp": "hulongpu",
+      "jp": "hlp",
+      "lines": [
+        "16"
+      ],
+      "facilities": [
+        "WC"
+      ]
+    },
+    {
+      "code": "1615",
+      "name": "尚景",
+      "qp": "shangjing",
+      "jp": "sj",
+      "lines": [
+        "16"
+      ],
+      "facilities": [
+        "WC"
+      ]
+    },
+    {
+      "code": "1616",
+      "name": "盛平",
+      "qp": "shengping",
+      "jp": "sp",
+      "lines": [
+        "16"
+      ],
+      "facilities": [
+        "WC"
+      ]
+    },
+    {
+      "code": "1617",
+      "name": "龙园",
+      "qp": "longyuan",
+      "jp": "ly",
+      "lines": [
+        "16"
+      ],
+      "facilities": [
+        "WC"
+      ]
+    },
+    {
+      "code": "1619",
+      "name": "新塘围",
+      "qp": "xintangwei",
+      "jp": "stw",
+      "lines": [
+        "16"
+      ],
+      "facilities": [
+        "WC"
+      ]
+    },
+    {
+      "code": "1620",
+      "name": "龙东",
+      "qp": "longdong",
+      "jp": "ld",
+      "lines": [
+        "16"
+      ],
+      "facilities": [
+        "WC"
+      ]
+    },
+    {
+      "code": "1621",
+      "name": "宝龙同乐",
+      "qp": "baolongtongle",
+      "jp": "bltl",
+      "lines": [
+        "16"
+      ],
+      "facilities": [
+        "WC"
+      ]
+    },
+    {
+      "code": "1622",
+      "name": "坪山",
+      "qp": "pingshan",
+      "jp": "ps",
+      "lines": [
+        "16"
+      ],
+      "facilities": [
+        "WC"
+      ]
+    },
+    {
+      "code": "1623",
+      "name": "新和",
+      "qp": "xinhe",
+      "jp": "xh",
+      "lines": [
+        "16"
+      ],
+      "facilities": [
+        "WC"
+      ]
+    },
+    {
+      "code": "1624",
+      "name": "六和",
+      "qp": "liuhe",
+      "jp": "lh",
+      "lines": [
+        "16"
+      ],
+      "facilities": [
+        "WC"
+      ]
+    },
+    {
+      "code": "1626",
+      "name": "坪环",
+      "qp": "pinghuan",
+      "jp": "ph",
+      "lines": [
+        "16"
+      ],
+      "facilities": [
+        "WC"
+      ]
+    },
+    {
+      "code": "1627",
+      "name": "东纵纪念馆",
+      "qp": "dongzongjinianguan",
+      "jp": "dzjng",
+      "lines": [
+        "16"
+      ],
+      "facilities": [
+        "WC"
+      ]
+    },
+    {
+      "code": "1628",
+      "name": "沙壆",
+      "qp": "shabo",
+      "jp": "sb",
+      "lines": [
+        "16"
+      ],
+      "facilities": [
+        "WC"
+      ]
+    },
+    {
+      "code": "1629",
+      "name": "燕子湖",
+      "qp": "yanzihu",
+      "jp": "yzh",
+      "lines": [
+        "16"
+      ],
+      "facilities": [
+        "WC"
+      ]
+    },
+    {
+      "code": "1630",
+      "name": "石井",
+      "qp": "shijing",
+      "jp": "sj",
+      "lines": [
+        "16"
+      ],
+      "facilities": [
+        "WC"
+      ]
+    },
+    {
+      "code": "1631",
+      "name": "技术大学",
+      "qp": "jishudaxue",
+      "jp": "jsdx",
+      "lines": [
+        "16"
+      ],
+      "facilities": [
+        "WC"
+      ]
+    },
+    {
+      "code": "1632",
+      "name": "田心",
+      "qp": "tianxin",
+      "jp": "tx",
+      "lines": [
+        "16"
+      ],
+      "facilities": [
+        "WC"
+      ]
+    },
+    {
+      "code": "2002",
+      "name": "国展南",
+      "qp": "guozhannan",
+      "jp": "gzn",
+      "lines": [
+        "20"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "WC"
+      ]
+    },
+    {
+      "code": "2005",
+      "name": "会展城",
+      "qp": "huizhancheng",
+      "jp": "hzc",
+      "lines": [
+        "20"
+      ],
+      "facilities": [
+        "recharge",
+        "WZA",
+        "WC"
+      ]
+    }
+  ]
+}

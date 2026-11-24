@@ -1,0 +1,33 @@
+{
+  "name": "深圳地铁拼音查站",
+  "short_name": "深圳地铁",
+  "description": "用拼音搜索深圳地铁车站，查询各线路各方向的预计到站时间、首末班车、行车间隔与出入口，并规划乘车路线。",
+  "start_url": "./",
+  "scope": "./",
+  "id": "sz-metro-pinyin",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#ffffff",
+  "theme_color": "#171717",
+  "categories": ["travel", "navigation", "utilities"],
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
