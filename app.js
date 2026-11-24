@@ -1050,6 +1050,16 @@ document.addEventListener('keydown', (event) => {
 
 /* --------------------------------------------------------------- start */
 
+/**
+ * The offline shell. Registration only works on a secure origin, which every
+ * published copy is, and a failure here must never break the page.
+ */
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', () => {
+    navigator.serviceWorker.register('./sw.js').catch(() => undefined);
+  });
+}
+
 window.addEventListener('hashchange', () => {
   readHash();
   render();
